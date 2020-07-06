@@ -1,0 +1,172 @@
+# Angular 文档
+
++ [简介](docs)
++ 入门指南
+    + [设置本地环境和工作区](guide/01.setting-up-the-local-environment-and-workspace.md)
+    + Angular概念
+        + [Angular概念简介](guide/02.introduction-to-angular-concepts.md)
+        + [模块简介](guide/architecture-modules)
+        + [组件简介](guide/architecture-components)
+        + [服务和依赖注入简介](guide/architecture-services)
+        + [下一步](guide/architecture-next-steps)
+    + [Angular术语](guide/glossary)
+    + Try it
+        + [A Sample App](start)
+        + [In-app Navigation](start/start-routing)
+        + [Manage Data](start/start-data)
+        + [Forms for User Input](start/start-forms)
+        + [Deployment](start/start-deployment)
+    + Tutorial: Tour of Heroes
+        + [简介](tutorial)
+        + [Create a Project](tutorial/toh-pt0)
+        + [1. The Hero Editor](tutorial/toh-pt1)
+        + [2. Display a List](tutorial/toh-pt2)
+        + [3. Create a Feature Component](tutorial/toh-pt3)
+        + [4. Add Services](tutorial/toh-pt4)
+        + [5. Add In-app Navigation](tutorial/toh-pt5)
+        + [6. Get Data from a Server](tutorial/toh-pt6)
++ Fundamentals
+    + Components &amp; Templates
+        + [Displaying Data](guide/displaying-data)
+        + [Template Syntax](guide/template-syntax)
+        + [User Input](guide/user-input)
+        + [Attribute Directives](guide/attribute-directives)
+        + [Structural Directives](guide/structural-directives)
+        + [Pipes](guide/pipes)
+        + [Hook into the Component Lifecycle](guide/lifecycle-hooks)
+        + [Component Interaction](guide/component-interaction)
+        + [Component Styles](guide/component-styles)
+        + [Dynamic Components](guide/dynamic-component-loader)
+        + [Angular Elements](guide/elements)
+    + Forms for User Input
+        + [简介](guide/forms-overview)
+        + [Reactive Forms](guide/reactive-forms)
+        + [Validate form input](guide/form-validation)
+        + [Building Dynamic Forms](guide/dynamic-form)
+    + Observables &amp; RxJS
+        + [Observables Overview](guide/observables)
+        + [The RxJS Library](guide/rx-library)
+        + [Observables in Angular](guide/observables-in-angular)
+        + [Practical Usage](guide/practical-observable-usage)
+        + [Compare to Other Techniques](guide/comparing-observables)
+    + NgModules
+        + [NgModules Introduction](guide/ngmodules)
+        + [JS Modules vs NgModules](guide/ngmodule-vs-jsmodule)
+        + [Launching Apps with a Root Module](guide/bootstrapping)
+        + [Frequently Used NgModules](guide/frequent-ngmodules)
+        + [Types of Feature Modules](guide/module-types)
+        + [Entry Components](guide/entry-components)
+        + [Feature Modules](guide/feature-modules)
+        + [Providing Dependencies](guide/providers)
+        + [Singleton Services](guide/singleton-services)
+        + [Lazy Loading Feature Modules](guide/lazy-loading-ngmodules)
+        + [Sharing NgModules](guide/sharing-ngmodules)
+        + [NgModule API](guide/ngmodule-api)
+        + [NgModule FAQs](guide/ngmodule-faq)
+    + Dependency Injection
+        + [Angular Dependency Injection](guide/dependency-injection)
+        + [Hierarchical Injectors](guide/hierarchical-dependency-injection)
+        + [DI Providers](guide/dependency-injection-providers)
+        + [DI in Action](guide/dependency-injection-in-action)
+        + [Navigate the Component Tree](guide/dependency-injection-navtree)
+    + [Access Servers over HTTP](guide/http)
+    + [Routing &amp; Navigation](guide/router)
+    + [Security](guide/security)
++ Techniques
+    + Animations
+        + [简介](guide/animations)
+        + [Transition and Triggers](guide/transition-and-triggers)
+        + [Complex Sequences](guide/complex-animation-sequences)
+        + [Reusable Animations](guide/reusable-animations)
+        + [Route Transition Animations](guide/route-animations)
+    + [Internationalization (i18n)](guide/i18n)
+    + [Accessibility](guide/accessibility)
+    + Service Workers &amp; PWA
+        + [简介](guide/service-worker-intro)
+        + [Getting Started](guide/service-worker-getting-started)
+        + [App Shell](guide/app-shell)
+        + [Service Worker Communication](guide/service-worker-communications)
+        + [Service Worker in Production](guide/service-worker-devops)
+        + [Service Worker Configuration](guide/service-worker-config)
+    + [Web Workers](guide/web-worker)
+    + [Server-side Rendering](guide/universal)
++ Dev Workflow
+    + AOT Compiler
+        + [Ahead-of-Time Compilation](guide/aot-compiler)
+        + [Angular Compiler Options](guide/angular-compiler-options)
+        + [AOT Metadata Errors](guide/aot-metadata-errors)
+        + [Template Type-checking](guide/template-typecheck)
+    + [Building &amp; Serving](guide/build)
+    + [Testing](guide/testing)
+    + [Deployment](guide/deployment)
+    + Dev Tool Integration
+        + [Language Service](guide/language-service)
++ Configuration
+    + [Project File Structure](guide/file-structure)
+    + [Workspace Configuration](guide/workspace-config)
+    + [npm Dependencies](guide/npm-packages)
+    + [TypeScript Configuration](guide/typescript-configuration)
+    + [Browser Support](guide/browser-support)
+    + [Strict mode](guide/strict-mode)
++ Extending Angular
+    + Angular Libraries
+        + [Libraries Overview](guide/libraries)
+        + [Using Published Libraries](guide/using-libraries)
+        + [Creating Libraries](guide/creating-libraries)
+    + Schematics
+        + [Schematics Overview](guide/schematics)
+        + [Authoring Schematics](guide/schematics-authoring)
+        + [Schematics for Libraries](guide/schematics-for-libraries)
+    + [CLI Builders](guide/cli-builder)
++ Tutorials
+    + [Using Angular Routes in a Single-page Application](guide/router-tutorial)
+    + [Building a Template-driven Form](guide/forms)
++ Release Information
+    + [Keeping Up-to-Date](guide/updating)
+    + [Release Practices](guide/releases)
+    + Updating to Version 10
+        + [Overview](guide/updating-to-version-10)
+        + [Ivy Compatibility Guide](guide/ivy-compatibility)
+        + Migrations
+            + [Missing ModuleWithProviders Generic](guide/migration-module-with-providers)
+            + [Missing @Directive() Decorators](guide/migration-undecorated-classes)
+            + [Missing @Injectable() Decorators](guide/migration-injectable)
+            + [Solution-style `tsconfig.json`](guide/migration-solution-style-tsconfig)
+            + [`tslib` direct dependency](guide/migration-update-libraries-tslib)
+            + [`module` and `target` compiler options](guide/migration-update-module-and-target-compiler-options)
+    + [Deprecations](guide/deprecations)
+    + [Angular Ivy](guide/ivy)
+    + Upgrading from AngularJS
+        + [Upgrading Instructions](guide/upgrade)
+        + [Setup for Upgrading from AngularJS](guide/upgrade-setup)
+        + [Upgrading for Performance](guide/upgrade-performance)
+        + [AngularJS-Angular Concepts](guide/ajs-quick-reference)
++ Angular Style and Usage
+    + [Quick Reference](guide/cheatsheet)
+    + [Coding Style Guide](guide/styleguide)
+    + [Documentation Style Guide](guide/docs-style-guide)
++ CLI Command Reference
+    + [Overview](cli)
+    + [Usage Analytics](cli/usage-analytics-gathering)
+    + [ng add](cli/add)
+    + [ng analytics](cli/analytics)
+    + [ng build](cli/build)
+    + [ng config](cli/config)
+    + [ng deploy](cli/deploy)
+    + [ng doc](cli/doc)
+    + [ng e2e](cli/e2e)
+    + [ng generate](cli/generate)
+    + [ng help](cli/help)
+    + [ng lint](cli/lint)
+    + [ng new](cli/new)
+    + [ng run](cli/run)
+    + [ng serve](cli/serve)
+    + [ng test](cli/test)
+    + [ng update](cli/update)
+    + [ng version](cli/version)
+    + [ng xi18n](cli/xi18n)
++ [API Reference](api)
+
+
+
+

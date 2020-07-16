@@ -1,4 +1,4 @@
-# [Spring指南](https://spring.io/guides)
+# Spring指南
 
 + 快速入门
     + [Spring快速入门指南](01.spring-quickstart-guide.md)

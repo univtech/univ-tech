@@ -1,4 +1,4 @@
-# [Slurm文档](https://slurm.schedmd.com/documentation.html)
+# Slurm文档
 
 > NOTE: This documentation is for Slurm version 20.02.
   Documentation for older versions of Slurm are distributed with the source, or may be found in the [archive](https://slurm.schedmd.com/archive/).

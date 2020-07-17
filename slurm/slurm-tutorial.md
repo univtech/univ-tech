@@ -1,4 +1,4 @@
-# [Slurm教程](https://slurm.schedmd.com/tutorials.html)
+# Slurm教程
 
 ## Slurm工作负载管理器：架构、配置和使用
 

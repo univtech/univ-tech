@@ -2,9 +2,9 @@
 
 + [Introduction](https://angular.io/docs)
 + Getting Started
-    + [Setup](guide/01.setup-local.md)
+    + [Setup](https://angular.io/guide/setup-local)
     + Angular Concepts
-        + [Intro to Basic Concepts](guide/02.architecture.md)
+        + [Intro to Basic Concepts](https://angular.io/guide/architecture)
         + [Intro to Modules](https://angular.io/guide/architecture-modules)
         + [Intro to Components](https://angular.io/guide/architecture-components)
         + [Intro to Services and DI](https://angular.io/guide/architecture-services)

@@ -25,7 +25,7 @@ Also see [Tutorials](https://slurm.schedmd.com/tutorials.html) and [Publications
 
 ### Slurm用户指南
 
-+ [Quick Start User Guide](https://slurm.schedmd.com/quickstart.html)
++ [快速入门指南](slurm-user/01.quickstart.md)
 + [Command/option Summary (two pages)](https://slurm.schedmd.com/pdfs/summary.pdf)
 + [Man Pages](https://slurm.schedmd.com/man_index.html)
 + [Rosetta Stone of Workload Managers](https://slurm.schedmd.com/rosetta.html)

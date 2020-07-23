@@ -25,7 +25,7 @@ Also see [Tutorials](https://slurm.schedmd.com/tutorials.html) and [Publications
 
 ### Slurm用户指南
 
-+ [快速入门指南](slurm-user/01.quickstart.md)
++ [用户快速入门指南](slurm-user/01.quickstart.md)
 + [Command/option Summary (two pages)](https://slurm.schedmd.com/pdfs/summary.pdf)
 + [Man Pages](https://slurm.schedmd.com/man_index.html)
 + [Rosetta Stone of Workload Managers](https://slurm.schedmd.com/rosetta.html)
@@ -45,7 +45,7 @@ Also see [Tutorials](https://slurm.schedmd.com/tutorials.html) and [Publications
 
 ### Slurm管理指南
 
-+ [Quick Start Administrator Guide](https://slurm.schedmd.com/quickstart_admin.html)
++ [管理员快速入门指南](slurm-admin/01.quickstart_admin.md)
 + [Accounting](https://slurm.schedmd.com/accounting.html)
 + [Advanced Resource Reservation Guide](https://slurm.schedmd.com/reservations.html)
 + [Burst Buffer Guide](https://slurm.schedmd.com/burst_buffer.html)

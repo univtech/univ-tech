@@ -26,7 +26,7 @@ This is particularly useful for archiving accounting records.
 
   Help; print a brief summary of command options.
 
-+ -n <value>
++ -n &lt;value&gt;
 
   Set the daemon's nice value to the specified value, typically a negative number.
 

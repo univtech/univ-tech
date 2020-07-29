@@ -26,7 +26,7 @@ This file should be protected from unauthorized access since it contains a datab
 
 The overall configuration parameters available include:
 
-```
+```shell
 ArchiveDir
     If ArchiveScript is not set the slurmdbd will generate a file that can be read in anytime with sacctmgr load filename.
     This directory is where the file will be placed after a purge event has happened and archive for that element is set to true.
@@ -363,7 +363,7 @@ TrackWCKey
 
 ## 示例
 
-```
+```shell
 #
 # Sample /etc/slurmdbd.conf
 #

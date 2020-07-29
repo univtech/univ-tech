@@ -8,7 +8,9 @@ slurmdbd - Slurm Database Daemon.
 
 ## 概要
 
+```shell
 slurmdbd [OPTIONS...]
+```
 
 ## 描述
 
@@ -18,35 +20,28 @@ This is particularly useful for archiving accounting records.
 
 ## 选项
 
-+ -D
+```shell
+-D
+    Run slurmdbd in the foreground with logging copied to stdout.
 
-  Run slurmdbd in the foreground with logging copied to stdout.
+-h
+    Help; print a brief summary of command options.
 
-+ -h
+-n <value>
+    Set the daemon's nice value to the specified value, typically a negative number.
 
-  Help; print a brief summary of command options.
+-R[comma separated cluster name list]
+    Reset the lft and rgt values of the associations in the given cluster list.
+    Lft and rgt values are used to distinguish hierarchical groups in the slurm accounting database.
+    This option should be very rarely used.
 
-+ -n &lt;value&gt;
+-v
+    Verbose operation.
+    Multiple -v's increase verbosity.
 
-  Set the daemon's nice value to the specified value, typically a negative number.
-
-+ -R[comma separated cluster name list]
-
-  Reset the lft and rgt values of the associations in the given cluster list.
-
-  Lft and rgt values are used to distinguish hierarchical groups in the slurm accounting database.
-
-  This option should be very rarely used.
-
-+ -v
-
-  Verbose operation.
-
-  Multiple -v's increase verbosity.
-
-+ -V
-
-  Print version information and exit.
+-V
+    Print version information and exit.
+```
 
 ## 文件
 
@@ -60,29 +55,24 @@ If neither of the above directories have write permission for SlurmUser, no core
 
 ## 信号
 
-+ SIGTERM SIGINT
+```shell
+SIGTERM SIGINT
+    slurmdbd will shutdown cleanly, waiting for in-progress rollups to finish.
 
-  slurmdbd will shutdown cleanly, waiting for in-progress rollups to finish.
+SIGABRT
+    slurmdbd will perform a core dump, then exit.
+    In-progress operations are killed.
 
-+ SIGABRT
+SIGHUP
+    Reloads the slurm configuration files, similar to 'scontrol reconfigure'.
 
-  slurmdbd will perform a core dump, then exit.
+SIGUSR2
+    Reread the log level from the configs, and then reopen the log file.
+    This should be used when setting up logrotate.
 
-  In-progress operations are killed.
-
-+ SIGHUP
-
-  Reloads the slurm configuration files, similar to 'scontrol reconfigure'.
-
-+ SIGUSR2
-
-  Reread the log level from the configs, and then reopen the log file.
-
-  This should be used when setting up logrotate.
-
-+ SIGCHLD SIGUSR1 SIGTSTP SIGXCPU SIGQUIT SIGPIPE SIGALRM
-
-  These signals are explicitly ignored.
+SIGCHLD SIGUSR1 SIGTSTP SIGXCPU SIGQUIT SIGPIPE SIGALRM
+    These signals are explicitly ignored.
+```
 
 ## 注意
 

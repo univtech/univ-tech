@@ -1,7 +1,10 @@
 # Slurm
 
- 标题     | 地址                                            | 摘要
+## Slurm
+
+ 名称     | 地址                                            | 摘要
 :---------|:------------------------------------------------|:------------------------------------------------------------
+ 首页     | https://slurm.schedmd.com/                      |
  关于     |                                                 |
  概述     | https://slurm.schedmd.com/overview.html         | [摘要](slurm/slurm-overview.md)
  版本说明 | https://slurm.schedmd.com/news.html             |
@@ -17,7 +20,23 @@
  获取帮助 |                                                 |
  故障排除 | https://slurm.schedmd.com/troubleshoot.html     |
 
-## Slurm文档
+## Slurm GitHub
+
+https://github.com/SchedMD
+https://github.com/SchedMD/slurm
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

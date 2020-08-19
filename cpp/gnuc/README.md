@@ -90,6 +90,25 @@ This is the GNU C reference manual.
     + [4.12 continue语句](statement.md#412-continue语句)
     + [4.13 return语句](statement.md#413-return语句)
     + [4.14 typedef语句](statement.md#414-typedef语句)
++ [5 函数](function.md#5-函数)
+    + [5.1 函数声明](function.md#51-函数声明)
+    + [5.2 函数定义](function.md#52-函数定义)
+    + [5.3 调用函数](function.md#53-调用函数)
+    + [5.4 函数参数](function.md#54-函数参数)
+    + [5.5 可变长度参数列表](function.md#55-可变长度参数列表)
+    + [5.6 通过函数指针调用函数](function.md#56-通过函数指针调用函数)
+    + [5.7 main函数](function.md#57-main函数)
+    + [5.8 递归函数](function.md#58-递归函数)
+    + [5.9 静态函数](function.md#59-静态函数)
+    + [5.10 嵌套函数](function.md#510-嵌套函数)
+
+
+
+
+
+
+
+
 
 
 

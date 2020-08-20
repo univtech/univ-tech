@@ -6,6 +6,9 @@ This is the GNU C reference manual.
 
 ## 目录
 
++ [前言](preface.md#前言)
+    + [鸣谢](preface.md#鸣谢)
+
 + [2 数据类型](datatype.md#2-数据类型)
     + [2.1 原始数据类型](datatype.md#21-原始数据类型)
         + [2.1.1 整数类型](datatype.md#211-整数类型)

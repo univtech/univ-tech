@@ -8,7 +8,17 @@ This is the GNU C reference manual.
 
 + [前言](preface.md#前言)
     + [鸣谢](preface.md#鸣谢)
-
++ [1 词汇元素](lexical.md#1-词汇元素)
+    + [1.1 标识符](lexical.md#11-标识符)
+    + [1.2 关键字](lexical.md#12-关键字)
+    + [1.3 常量](lexical.md#13-常量)
+        + [1.3.1 整型常量](lexical.md#131-整型常量)
+        + [1.3.2 字符常量](lexical.md#132-字符常量)
+        + [1.3.3 实数常量](lexical.md#133-实数常量)
+        + [1.3.4 字符串常量](lexical.md#134-字符串常量)
+    + [1.4 运算符](lexical.md#14-运算符)
+    + [1.5 分隔符](lexical.md#15-分隔符)
+    + [1.6 空格](lexical.md#16-空格)
 + [2 数据类型](datatype.md#2-数据类型)
     + [2.1 原始数据类型](datatype.md#21-原始数据类型)
         + [2.1.1 整数类型](datatype.md#211-整数类型)

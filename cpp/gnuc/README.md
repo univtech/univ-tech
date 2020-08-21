@@ -114,33 +114,18 @@ This is the GNU C reference manual.
     + [5.8 递归函数](function.md#58-递归函数)
     + [5.9 静态函数](function.md#59-静态函数)
     + [5.10 嵌套函数](function.md#510-嵌套函数)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
++ [6 程序结构和作用域](structure.md#6-程序结构和作用域)
+    + [6.1 程序结构](structure.md#61-程序结构)
+    + [6.2 作用域](structure.md#62-作用域)
++ [7 示例程序](sample.md#7-示例程序)
+    + [7.1 hello.c](sample.md#71-helloc)
+    + [7.2 system.h](sample.md#72-systemh)
++ [附录A 溢出](overflow.md#附录A-溢出)
+    + [A.1 整数溢出的基础知识](overflow.md#A1-整数溢出的基础知识)
+    + [A.2 假设环绕溢出的代码示例](overflow.md#A2-假设环绕溢出的代码示例)
+    + [A.3 打破环绕算法的优化](overflow.md#A3-打破环绕算法的优化)
+    + [A.4 对有符号溢出问题的实用建议](overflow.md#A4-对有符号溢出问题的实用建议)
+    + [A.5 有符号整数除法和整数溢出](overflow.md#A5-有符号整数除法和整数溢出)
 
 
 

@@ -8,24 +8,27 @@ https://en.cppreference.com/w/
 https://en.cppreference.com/w/c
 
 
-http://gcc.gnu.org/
-http://www.gnu.org/prep/standards/
-http://www.gnu.org/software/libc/manual/
-http://www.gnu.org/software/libc/manual/html_node/index.html
-http://www.gnu.org/software/libc/manual/html_mono/libc.html
-http://www.gnu.org/software/gnu-c-manual/gnu-c-manual.html
+https://gcc.gnu.org/
+https://www.gnu.org/prep/standards/
+https://www.gnu.org/software/libc/manual/
+https://www.gnu.org/software/libc/manual/html_node/index.html
+https://www.gnu.org/software/libc/manual/html_mono/libc.html
+https://www.gnu.org/software/libc/manual/pdf/libc.pdf
+
+https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.html
+https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.pdf
 
 
 
 
-
-
-
+http://asm.sourceforge.net/
+http://tigcc.ticalc.org/doc/gnuasm.html
 
 
 https://docs.microsoft.com/zh-cn/
 https://docs.microsoft.com/en-us/
-https://docs.microsoft.com/en-us/cpp/c-language/c-language-reference?view=vs-2019
+
+
 
 
 https://gcc.gnu.org/

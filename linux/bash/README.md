@@ -10,13 +10,21 @@ https://www.gnu.org/software/bash/manual/bash.pdf
 
 ## Bash特性
 
-This text is a brief description of the features that are present in the Bash shell (version 5.0, 12 May 2019). The Bash home page is http://www.gnu.org/software/bash/.
+This text is a brief description of the features that are present in the Bash shell (version 5.0, 12 May 2019).
+
+The Bash home page is http://www.gnu.org/software/bash/.
 
 This is Edition 5.0, last updated 12 May 2019, of The GNU Bash Reference Manual, for Bash, Version 5.0.
 
-Bash contains features that appear in other popular shells, and some features that only appear in Bash. Some of the shells that Bash has borrowed concepts from are the Bourne Shell (sh), the Korn Shell (ksh), and the C-shell (csh and its successor, tcsh). The following menu breaks the features up into categories, noting which features were inspired by other shells and which are specific to Bash.
+Bash contains features that appear in other popular shells, and some features that only appear in Bash.
 
-This manual is meant as a brief introduction to features found in Bash. The Bash manual page should be used as the definitive reference on shell behavior.
+Some of the shells that Bash has borrowed concepts from are the Bourne Shell (sh), the Korn Shell (ksh), and the C-shell (csh and its successor, tcsh).
+
+The following menu breaks the features up into categories, noting which features were inspired by other shells and which are specific to Bash.
+
+This manual is meant as a brief introduction to features found in Bash.
+
+The Bash manual page should be used as the definitive reference on shell behavior.
 
 ## 目录
 
@@ -26,68 +34,68 @@ This manual is meant as a brief introduction to features found in Bash. The Bash
 
 
 
-1 Introduction
-1.1 What is Bash?
-1.2 What is a shell?
-2 Definitions
-3 Basic Shell Features
-3.1 Shell Syntax
-3.1.1 Shell Operation
-3.1.2 Quoting
-3.1.2.1 Escape Character
-3.1.2.2 Single Quotes
-3.1.2.3 Double Quotes
-3.1.2.4 ANSI-C Quoting
-3.1.2.5 Locale-Specific Translation
-3.1.3 Comments
-3.2 Shell Commands
-3.2.1 Simple Commands
-3.2.2 Pipelines
-3.2.3 Lists of Commands
-3.2.4 Compound Commands
-3.2.4.1 Looping Constructs
-3.2.4.2 Conditional Constructs
-3.2.4.3 Grouping Commands
-3.2.5 Coprocesses
-3.2.6 GNU Parallel
-3.3 Shell Functions
-3.4 Shell Parameters
-3.4.1 Positional Parameters
-3.4.2 Special Parameters
-3.5 Shell Expansions
-3.5.1 Brace Expansion
-3.5.2 Tilde Expansion
-3.5.3 Shell Parameter Expansion
-3.5.4 Command Substitution
-3.5.5 Arithmetic Expansion
-3.5.6 Process Substitution
-3.5.7 Word Splitting
-3.5.8 Filename Expansion
-3.5.8.1 Pattern Matching
-3.5.9 Quote Removal
-3.6 Redirections
-3.6.1 Redirecting Input
-3.6.2 Redirecting Output
-3.6.3 Appending Redirected Output
-3.6.4 Redirecting Standard Output and Standard Error
-3.6.5 Appending Standard Output and Standard Error
-3.6.6 Here Documents
-3.6.7 Here Strings
-3.6.8 Duplicating File Descriptors
-3.6.9 Moving File Descriptors
-3.6.10 Opening File Descriptors for Reading and Writing
-3.7 Executing Commands
-3.7.1 Simple Command Expansion
-3.7.2 Command Search and Execution
-3.7.3 Command Execution Environment
-3.7.4 Environment
-3.7.5 Exit Status
-3.7.6 Signals
-3.8 Shell Scripts
-4 Shell Builtin Commands
-4.1 Bourne Shell Builtins
-4.2 Bash Builtin Commands
-4.3 Modifying Shell Behavior
+1 简介
+1.1 什么是Bash
+1.2 什么是Shell
+2 定义
+3 Shell基本特性
+3.1 Shell语法
+3.1.1 Shell操作
+3.1.2 引用
+3.1.2.1 转义字符
+3.1.2.2 单引号
+3.1.2.3 双引号
+3.1.2.4 ANSI-C引用
+3.1.2.5 特定区域的翻译
+3.1.3 注释
+3.2 Shell命令
+3.2.1 简单命令
+3.2.2 管道
+3.2.3 命令列表
+3.2.4 组合命令
+3.2.4.1 循环结构
+3.2.4.2 条件结构
+3.2.4.3 分组命令
+3.2.5 协进程
+3.2.6 GNU并行作业
+3.3 Shell函数
+3.4 Shell参数
+3.4.1 位置参数
+3.4.2 特殊参数
+3.5 Shell扩展
+3.5.1 花括号扩展
+3.5.2 波浪线扩展
+3.5.3 Shell参数扩展
+3.5.4 命令替换
+3.5.5 算术扩展
+3.5.6 进程替换
+3.5.7 单词分割
+3.5.8 文件名扩展
+3.5.8.1 模式匹配
+3.5.9 引用移除
+3.6 重定向
+3.6.1 重定向输入
+3.6.2 重定向输出
+3.6.3 追加重定向输出
+3.6.4 重定向标准输出和标准错误
+3.6.5 追加标准输出和标准错误
+3.6.6 当前文档
+3.6.7 当前字符串
+3.6.8 复制文件描述符
+3.6.9 移动文件描述符
+3.6.10 打开读写的文件描述符
+3.7 执行命令
+3.7.1 简单命令扩展
+3.7.2 命令搜索和执行
+3.7.3 命令执行环境
+3.7.4 环境变量
+3.7.5 退出状态
+3.7.6 信号
+3.8 Shell脚本
+4 Shell内置命令
+4.1 Bourne Shell内置命令
+4.2 Bash内置命令
+4.3 修改Shell行为
 4.3.1 The Set Builtin
 4.3.2 The Shopt Builtin
 4.4 Special Builtins

@@ -1,0 +1,18 @@
+# org.springframework.validation.beanvalidation
+
+## 类
+
+org.springframework.validation.beanvalidation.BeanValidationPostProcessor
+org.springframework.validation.beanvalidation.CustomValidatorBean
+org.springframework.validation.beanvalidation.LocalValidatorFactoryBean
+org.springframework.validation.beanvalidation.LocaleContextMessageInterpolator
+org.springframework.validation.beanvalidation.MessageSourceResourceBundleLocator
+org.springframework.validation.beanvalidation.MethodValidationInterceptor
+org.springframework.validation.beanvalidation.MethodValidationPostProcessor
+org.springframework.validation.beanvalidation.OptionalValidatorFactoryBean
+org.springframework.validation.beanvalidation.SpringConstraintValidatorFactory
+org.springframework.validation.beanvalidation.SpringValidatorAdapter
+
+
+
+

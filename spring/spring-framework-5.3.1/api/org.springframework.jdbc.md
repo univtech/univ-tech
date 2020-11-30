@@ -1,0 +1,16 @@
+# org.springframework.jdbc
+
+## 异常
+
+org.springframework.jdbc.BadSqlGrammarException
+org.springframework.jdbc.CannotGetJdbcConnectionException
+org.springframework.jdbc.IncorrectResultSetColumnCountException
+org.springframework.jdbc.InvalidResultSetAccessException
+org.springframework.jdbc.JdbcUpdateAffectedIncorrectNumberOfRowsException
+org.springframework.jdbc.LobRetrievalFailureException
+org.springframework.jdbc.SQLWarningException
+org.springframework.jdbc.UncategorizedSQLException
+
+
+
+

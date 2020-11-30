@@ -1,0 +1,20 @@
+# org.springframework.remoting.httpinvoker
+
+## 接口
+
+org.springframework.remoting.httpinvoker.HttpInvokerClientConfiguration
+org.springframework.remoting.httpinvoker.HttpInvokerRequestExecutor
+
+## 类
+
+org.springframework.remoting.httpinvoker.AbstractHttpInvokerRequestExecutor
+org.springframework.remoting.httpinvoker.HttpComponentsHttpInvokerRequestExecutor
+org.springframework.remoting.httpinvoker.HttpInvokerClientInterceptor
+org.springframework.remoting.httpinvoker.HttpInvokerProxyFactoryBean
+org.springframework.remoting.httpinvoker.HttpInvokerServiceExporter
+org.springframework.remoting.httpinvoker.SimpleHttpInvokerRequestExecutor
+org.springframework.remoting.httpinvoker.SimpleHttpInvokerServiceExporter
+
+
+
+

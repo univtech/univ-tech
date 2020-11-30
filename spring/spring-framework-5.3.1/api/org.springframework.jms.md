@@ -1,0 +1,22 @@
+# org.springframework.jms
+
+## 异常
+
+org.springframework.jms.IllegalStateException
+org.springframework.jms.InvalidClientIDException
+org.springframework.jms.InvalidDestinationException
+org.springframework.jms.InvalidSelectorException
+org.springframework.jms.JmsException
+org.springframework.jms.JmsSecurityException
+org.springframework.jms.MessageEOFException
+org.springframework.jms.MessageFormatException
+org.springframework.jms.MessageNotReadableException
+org.springframework.jms.MessageNotWriteableException
+org.springframework.jms.ResourceAllocationException
+org.springframework.jms.TransactionInProgressException
+org.springframework.jms.TransactionRolledBackException
+org.springframework.jms.UncategorizedJmsException
+
+
+
+

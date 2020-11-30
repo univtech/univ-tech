@@ -1,0 +1,56 @@
+# org.springframework.beans
+
+## 接口
+
+org.springframework.beans.BeanInfoFactory
+org.springframework.beans.BeanMetadataElement
+org.springframework.beans.BeanWrapper
+org.springframework.beans.ConfigurablePropertyAccessor
+org.springframework.beans.Mergeable
+org.springframework.beans.PropertyAccessor
+org.springframework.beans.PropertyEditorRegistrar
+org.springframework.beans.PropertyEditorRegistry
+org.springframework.beans.PropertyValues
+org.springframework.beans.TypeConverter
+
+## 类
+
+org.springframework.beans.AbstractNestablePropertyAccessor
+org.springframework.beans.AbstractNestablePropertyAccessor.PropertyHandler
+org.springframework.beans.AbstractNestablePropertyAccessor.PropertyTokenHolder
+org.springframework.beans.AbstractPropertyAccessor
+org.springframework.beans.BeanMetadataAttribute
+org.springframework.beans.BeanMetadataAttributeAccessor
+org.springframework.beans.BeanUtils
+org.springframework.beans.BeanWrapperImpl
+org.springframework.beans.CachedIntrospectionResults
+org.springframework.beans.DirectFieldAccessor
+org.springframework.beans.ExtendedBeanInfoFactory
+org.springframework.beans.MutablePropertyValues
+org.springframework.beans.PropertyAccessorFactory
+org.springframework.beans.PropertyAccessorUtils
+org.springframework.beans.PropertyEditorRegistrySupport
+org.springframework.beans.PropertyMatches
+org.springframework.beans.PropertyValue
+org.springframework.beans.PropertyValuesEditor
+org.springframework.beans.SimpleTypeConverter
+org.springframework.beans.TypeConverterSupport
+
+## 异常
+
+org.springframework.beans.BeanInstantiationException
+org.springframework.beans.BeansException
+org.springframework.beans.ConversionNotSupportedException
+org.springframework.beans.FatalBeanException
+org.springframework.beans.InvalidPropertyException
+org.springframework.beans.MethodInvocationException
+org.springframework.beans.NotReadablePropertyException
+org.springframework.beans.NotWritablePropertyException
+org.springframework.beans.NullValueInNestedPathException
+org.springframework.beans.PropertyAccessException
+org.springframework.beans.PropertyBatchUpdateException
+org.springframework.beans.TypeMismatchException
+
+
+
+

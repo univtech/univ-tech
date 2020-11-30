@@ -1,0 +1,21 @@
+# org.springframework.transaction.reactive
+
+## 接口
+
+org.springframework.transaction.reactive.TransactionCallback<T>
+org.springframework.transaction.reactive.TransactionSynchronization
+org.springframework.transaction.reactive.TransactionalOperator
+
+## 类
+
+org.springframework.transaction.reactive.AbstractReactiveTransactionManager
+org.springframework.transaction.reactive.AbstractReactiveTransactionManager.SuspendedResourcesHolder
+org.springframework.transaction.reactive.GenericReactiveTransaction
+org.springframework.transaction.reactive.ReactiveResourceSynchronization<O,K>
+org.springframework.transaction.reactive.TransactionContext
+org.springframework.transaction.reactive.TransactionContextManager
+org.springframework.transaction.reactive.TransactionSynchronizationManager
+
+
+
+

@@ -1,0 +1,38 @@
+# javax.accessibility
+
+## 接口
+
+javax.accessibility.Accessible
+javax.accessibility.AccessibleAction
+javax.accessibility.AccessibleComponent
+javax.accessibility.AccessibleEditableText
+javax.accessibility.AccessibleExtendedComponent
+javax.accessibility.AccessibleExtendedTable
+javax.accessibility.AccessibleExtendedText
+javax.accessibility.AccessibleHypertext
+javax.accessibility.AccessibleIcon
+javax.accessibility.AccessibleKeyBinding
+javax.accessibility.AccessibleSelection
+javax.accessibility.AccessibleStreamable
+javax.accessibility.AccessibleTable
+javax.accessibility.AccessibleTableModelChange
+javax.accessibility.AccessibleText
+javax.accessibility.AccessibleValue
+
+## 类
+
+javax.accessibility.AccessibleAttributeSequence
+javax.accessibility.AccessibleBundle
+javax.accessibility.AccessibleContext
+javax.accessibility.AccessibleHyperlink
+javax.accessibility.AccessibleRelation
+javax.accessibility.AccessibleRelationSet
+javax.accessibility.AccessibleResourceBundle
+javax.accessibility.AccessibleRole
+javax.accessibility.AccessibleState
+javax.accessibility.AccessibleStateSet
+javax.accessibility.AccessibleTextSequence
+
+
+
+

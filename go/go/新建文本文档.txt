@@ -1,0 +1,12 @@
+https://support.eji.org/give/153413/#!/donation/checkout
+https://golang.google.cn/
+https://golang.google.cn/doc/
+https://golang.google.cn/pkg/
+https://golang.google.cn/project/
+https://golang.google.cn/help/
+https://golang.google.cn/dl/
+https://golang.google.cn/doc/copyright.html
+https://golang.google.cn/doc/tos.html
+http://www.google.com/intl/en/policies/privacy/
+http://golang.org/issues/new?title=x/website:
+https://google.com

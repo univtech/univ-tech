@@ -1,0 +1,33 @@
+# org.springframework.scheduling.quartz
+
+## 接口
+
+org.springframework.scheduling.quartz.SchedulerContextAware
+
+## 类
+
+org.springframework.scheduling.quartz.AdaptableJobFactory
+org.springframework.scheduling.quartz.CronTriggerFactoryBean
+org.springframework.scheduling.quartz.DelegatingJob
+org.springframework.scheduling.quartz.JobDetailFactoryBean
+org.springframework.scheduling.quartz.LocalDataSourceJobStore
+org.springframework.scheduling.quartz.LocalTaskExecutorThreadPool
+org.springframework.scheduling.quartz.MethodInvokingJobDetailFactoryBean
+org.springframework.scheduling.quartz.MethodInvokingJobDetailFactoryBean.MethodInvokingJob
+org.springframework.scheduling.quartz.MethodInvokingJobDetailFactoryBean.StatefulMethodInvokingJob
+org.springframework.scheduling.quartz.QuartzJobBean
+org.springframework.scheduling.quartz.ResourceLoaderClassLoadHelper
+org.springframework.scheduling.quartz.SchedulerAccessor
+org.springframework.scheduling.quartz.SchedulerAccessorBean
+org.springframework.scheduling.quartz.SchedulerFactoryBean
+org.springframework.scheduling.quartz.SimpleThreadPoolTaskExecutor
+org.springframework.scheduling.quartz.SimpleTriggerFactoryBean
+org.springframework.scheduling.quartz.SpringBeanJobFactory
+
+## 异常
+
+org.springframework.scheduling.quartz.JobMethodInvocationFailedException
+
+
+
+

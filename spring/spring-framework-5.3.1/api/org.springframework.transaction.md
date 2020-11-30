@@ -1,0 +1,32 @@
+# org.springframework.transaction
+
+## 接口
+
+org.springframework.transaction.PlatformTransactionManager
+org.springframework.transaction.ReactiveTransaction
+org.springframework.transaction.ReactiveTransactionManager
+org.springframework.transaction.SavepointManager
+org.springframework.transaction.TransactionDefinition
+org.springframework.transaction.TransactionExecution
+org.springframework.transaction.TransactionManager
+org.springframework.transaction.TransactionStatus
+
+## 异常
+
+org.springframework.transaction.CannotCreateTransactionException
+org.springframework.transaction.HeuristicCompletionException
+org.springframework.transaction.IllegalTransactionStateException
+org.springframework.transaction.InvalidIsolationLevelException
+org.springframework.transaction.InvalidTimeoutException
+org.springframework.transaction.NestedTransactionNotSupportedException
+org.springframework.transaction.NoTransactionException
+org.springframework.transaction.TransactionException
+org.springframework.transaction.TransactionSuspensionNotSupportedException
+org.springframework.transaction.TransactionSystemException
+org.springframework.transaction.TransactionTimedOutException
+org.springframework.transaction.TransactionUsageException
+org.springframework.transaction.UnexpectedRollbackException
+
+
+
+

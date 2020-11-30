@@ -1,0 +1,34 @@
+# org.springframework.transaction.support
+
+## 接口
+
+org.springframework.transaction.support.CallbackPreferringPlatformTransactionManager
+org.springframework.transaction.support.ResourceHolder
+org.springframework.transaction.support.ResourceTransactionDefinition
+org.springframework.transaction.support.ResourceTransactionManager
+org.springframework.transaction.support.SmartTransactionObject
+org.springframework.transaction.support.TransactionCallback<T>
+org.springframework.transaction.support.TransactionOperations
+org.springframework.transaction.support.TransactionSynchronization
+
+## 类
+
+org.springframework.transaction.support.AbstractPlatformTransactionManager
+org.springframework.transaction.support.AbstractPlatformTransactionManager.SuspendedResourcesHolder
+org.springframework.transaction.support.AbstractTransactionStatus
+org.springframework.transaction.support.DefaultTransactionDefinition
+org.springframework.transaction.support.DefaultTransactionStatus
+org.springframework.transaction.support.DelegatingTransactionDefinition
+org.springframework.transaction.support.ResourceHolderSupport
+org.springframework.transaction.support.ResourceHolderSynchronization<H extends ResourceHolder,K>
+org.springframework.transaction.support.SimpleTransactionScope
+org.springframework.transaction.support.SimpleTransactionStatus
+org.springframework.transaction.support.TransactionCallbackWithoutResult
+org.springframework.transaction.support.TransactionSynchronizationAdapter
+org.springframework.transaction.support.TransactionSynchronizationManager
+org.springframework.transaction.support.TransactionSynchronizationUtils
+org.springframework.transaction.support.TransactionTemplate
+
+
+
+

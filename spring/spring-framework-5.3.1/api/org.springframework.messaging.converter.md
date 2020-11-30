@@ -1,0 +1,33 @@
+# org.springframework.messaging.converter
+
+## 接口
+
+org.springframework.messaging.converter.ContentTypeResolver
+org.springframework.messaging.converter.MessageConverter
+org.springframework.messaging.converter.SmartMessageConverter
+
+## 类
+
+org.springframework.messaging.converter.AbstractJsonMessageConverter
+org.springframework.messaging.converter.AbstractMessageConverter
+org.springframework.messaging.converter.ByteArrayMessageConverter
+org.springframework.messaging.converter.CompositeMessageConverter
+org.springframework.messaging.converter.DefaultContentTypeResolver
+org.springframework.messaging.converter.GenericMessageConverter
+org.springframework.messaging.converter.GsonMessageConverter
+org.springframework.messaging.converter.JsonbMessageConverter
+org.springframework.messaging.converter.KotlinSerializationJsonMessageConverter
+org.springframework.messaging.converter.MappingJackson2MessageConverter
+org.springframework.messaging.converter.MarshallingMessageConverter
+org.springframework.messaging.converter.ProtobufJsonFormatMessageConverter
+org.springframework.messaging.converter.ProtobufMessageConverter
+org.springframework.messaging.converter.SimpleMessageConverter
+org.springframework.messaging.converter.StringMessageConverter
+
+## 异常
+
+org.springframework.messaging.converter.MessageConversionException
+
+
+
+

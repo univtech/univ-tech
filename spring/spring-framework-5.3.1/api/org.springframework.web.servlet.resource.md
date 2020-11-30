@@ -1,0 +1,42 @@
+# org.springframework.web.servlet.resource
+
+## 接口
+
+org.springframework.web.servlet.resource.CssLinkResourceTransformer.LinkParser
+org.springframework.web.servlet.resource.HttpResource
+org.springframework.web.servlet.resource.ResourceResolver
+org.springframework.web.servlet.resource.ResourceResolverChain
+org.springframework.web.servlet.resource.ResourceTransformer
+org.springframework.web.servlet.resource.ResourceTransformerChain
+org.springframework.web.servlet.resource.VersionPathStrategy
+org.springframework.web.servlet.resource.VersionStrategy
+
+## 类
+
+org.springframework.web.servlet.resource.AbstractResourceResolver
+org.springframework.web.servlet.resource.AbstractVersionStrategy
+org.springframework.web.servlet.resource.AbstractVersionStrategy.FileNameVersionPathStrategy
+org.springframework.web.servlet.resource.AbstractVersionStrategy.PrefixVersionPathStrategy
+org.springframework.web.servlet.resource.AppCacheManifestTransformer
+org.springframework.web.servlet.resource.CachingResourceResolver
+org.springframework.web.servlet.resource.CachingResourceTransformer
+org.springframework.web.servlet.resource.ContentVersionStrategy
+org.springframework.web.servlet.resource.CssLinkResourceTransformer
+org.springframework.web.servlet.resource.CssLinkResourceTransformer.AbstractLinkParser
+org.springframework.web.servlet.resource.DefaultServletHttpRequestHandler
+org.springframework.web.servlet.resource.EncodedResourceResolver
+org.springframework.web.servlet.resource.FixedVersionStrategy
+org.springframework.web.servlet.resource.GzipResourceResolver
+org.springframework.web.servlet.resource.PathResourceResolver
+org.springframework.web.servlet.resource.ResourceHttpRequestHandler
+org.springframework.web.servlet.resource.ResourceTransformerSupport
+org.springframework.web.servlet.resource.ResourceUrlEncodingFilter
+org.springframework.web.servlet.resource.ResourceUrlProvider
+org.springframework.web.servlet.resource.ResourceUrlProviderExposingInterceptor
+org.springframework.web.servlet.resource.TransformedResource
+org.springframework.web.servlet.resource.VersionResourceResolver
+org.springframework.web.servlet.resource.WebJarsResourceResolver
+
+
+
+

@@ -1,0 +1,27 @@
+# org.springframework.messaging.handler.annotation.support
+
+## 接口
+
+org.springframework.messaging.handler.annotation.support.MessageHandlerMethodFactory
+
+## 类
+
+org.springframework.messaging.handler.annotation.support.AbstractNamedValueMethodArgumentResolver
+org.springframework.messaging.handler.annotation.support.AbstractNamedValueMethodArgumentResolver.NamedValueInfo
+org.springframework.messaging.handler.annotation.support.AnnotationExceptionHandlerMethodResolver
+org.springframework.messaging.handler.annotation.support.DefaultMessageHandlerMethodFactory
+org.springframework.messaging.handler.annotation.support.DestinationVariableMethodArgumentResolver
+org.springframework.messaging.handler.annotation.support.HeaderMethodArgumentResolver
+org.springframework.messaging.handler.annotation.support.HeadersMethodArgumentResolver
+org.springframework.messaging.handler.annotation.support.MessageMethodArgumentResolver
+org.springframework.messaging.handler.annotation.support.PayloadArgumentResolver
+org.springframework.messaging.handler.annotation.support.PayloadMethodArgumentResolver
+
+## 异常
+
+org.springframework.messaging.handler.annotation.support.MethodArgumentNotValidException
+org.springframework.messaging.handler.annotation.support.MethodArgumentTypeMismatchException
+
+
+
+

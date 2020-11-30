@@ -1,0 +1,39 @@
+# org.springframework.aop.support
+
+## 接口
+
+org.springframework.aop.support.ExpressionPointcut
+
+## 类
+
+org.springframework.aop.support.AbstractBeanFactoryPointcutAdvisor
+org.springframework.aop.support.AbstractExpressionPointcut
+org.springframework.aop.support.AbstractGenericPointcutAdvisor
+org.springframework.aop.support.AbstractPointcutAdvisor
+org.springframework.aop.support.AbstractRegexpMethodPointcut
+org.springframework.aop.support.AopUtils
+org.springframework.aop.support.ClassFilters
+org.springframework.aop.support.ComposablePointcut
+org.springframework.aop.support.ControlFlowPointcut
+org.springframework.aop.support.DefaultBeanFactoryPointcutAdvisor
+org.springframework.aop.support.DefaultIntroductionAdvisor
+org.springframework.aop.support.DefaultPointcutAdvisor
+org.springframework.aop.support.DelegatePerTargetObjectIntroductionInterceptor
+org.springframework.aop.support.DelegatingIntroductionInterceptor
+org.springframework.aop.support.DynamicMethodMatcher
+org.springframework.aop.support.DynamicMethodMatcherPointcut
+org.springframework.aop.support.IntroductionInfoSupport
+org.springframework.aop.support.JdkRegexpMethodPointcut
+org.springframework.aop.support.MethodMatchers
+org.springframework.aop.support.NameMatchMethodPointcut
+org.springframework.aop.support.NameMatchMethodPointcutAdvisor
+org.springframework.aop.support.Pointcuts
+org.springframework.aop.support.RegexpMethodPointcutAdvisor
+org.springframework.aop.support.RootClassFilter
+org.springframework.aop.support.StaticMethodMatcher
+org.springframework.aop.support.StaticMethodMatcherPointcut
+org.springframework.aop.support.StaticMethodMatcherPointcutAdvisor
+
+
+
+

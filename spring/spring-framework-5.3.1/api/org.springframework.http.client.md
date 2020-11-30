@@ -1,0 +1,34 @@
+# org.springframework.http.client
+
+## 接口
+
+org.springframework.http.client.AsyncClientHttpRequest
+org.springframework.http.client.AsyncClientHttpRequestExecution
+org.springframework.http.client.AsyncClientHttpRequestFactory
+org.springframework.http.client.AsyncClientHttpRequestInterceptor
+org.springframework.http.client.ClientHttpRequest
+org.springframework.http.client.ClientHttpRequestExecution
+org.springframework.http.client.ClientHttpRequestFactory
+org.springframework.http.client.ClientHttpRequestInitializer
+org.springframework.http.client.ClientHttpRequestInterceptor
+org.springframework.http.client.ClientHttpResponse
+org.springframework.http.client.MultipartBodyBuilder.PartBuilder
+
+## 类
+
+org.springframework.http.client.AbstractClientHttpRequest
+org.springframework.http.client.AbstractClientHttpRequestFactoryWrapper
+org.springframework.http.client.AbstractClientHttpResponse
+org.springframework.http.client.BufferingClientHttpRequestFactory
+org.springframework.http.client.HttpComponentsAsyncClientHttpRequestFactory
+org.springframework.http.client.HttpComponentsClientHttpRequestFactory
+org.springframework.http.client.InterceptingAsyncClientHttpRequestFactory
+org.springframework.http.client.InterceptingClientHttpRequestFactory
+org.springframework.http.client.MultipartBodyBuilder
+org.springframework.http.client.Netty4ClientHttpRequestFactory
+org.springframework.http.client.OkHttp3ClientHttpRequestFactory
+org.springframework.http.client.SimpleClientHttpRequestFactory
+
+
+
+

@@ -1,0 +1,30 @@
+# org.springframework.jdbc.datasource
+
+## 接口
+
+org.springframework.jdbc.datasource.ConnectionHandle
+org.springframework.jdbc.datasource.ConnectionProxy
+org.springframework.jdbc.datasource.SmartDataSource
+
+## 类
+
+org.springframework.jdbc.datasource.AbstractDataSource
+org.springframework.jdbc.datasource.AbstractDriverBasedDataSource
+org.springframework.jdbc.datasource.ConnectionHolder
+org.springframework.jdbc.datasource.DataSourceTransactionManager
+org.springframework.jdbc.datasource.DataSourceUtils
+org.springframework.jdbc.datasource.DelegatingDataSource
+org.springframework.jdbc.datasource.DriverManagerDataSource
+org.springframework.jdbc.datasource.IsolationLevelDataSourceAdapter
+org.springframework.jdbc.datasource.JdbcTransactionObjectSupport
+org.springframework.jdbc.datasource.LazyConnectionDataSourceProxy
+org.springframework.jdbc.datasource.SimpleConnectionHandle
+org.springframework.jdbc.datasource.SimpleDriverDataSource
+org.springframework.jdbc.datasource.SingleConnectionDataSource
+org.springframework.jdbc.datasource.TransactionAwareDataSourceProxy
+org.springframework.jdbc.datasource.UserCredentialsDataSourceAdapter
+org.springframework.jdbc.datasource.WebSphereDataSourceAdapter
+
+
+
+

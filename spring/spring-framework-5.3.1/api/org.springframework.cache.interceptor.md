@@ -1,0 +1,45 @@
+# org.springframework.cache.interceptor
+
+## 接口
+
+org.springframework.cache.interceptor.BasicOperation
+org.springframework.cache.interceptor.CacheErrorHandler
+org.springframework.cache.interceptor.CacheOperationInvocationContext<O extends BasicOperation>
+org.springframework.cache.interceptor.CacheOperationInvoker
+org.springframework.cache.interceptor.CacheOperationSource
+org.springframework.cache.interceptor.CacheResolver
+org.springframework.cache.interceptor.KeyGenerator
+
+## 类
+
+org.springframework.cache.interceptor.AbstractCacheInvoker
+org.springframework.cache.interceptor.AbstractCacheResolver
+org.springframework.cache.interceptor.AbstractFallbackCacheOperationSource
+org.springframework.cache.interceptor.BeanFactoryCacheOperationSourceAdvisor
+org.springframework.cache.interceptor.CacheAspectSupport
+org.springframework.cache.interceptor.CacheAspectSupport.CacheOperationMetadata
+org.springframework.cache.interceptor.CacheEvictOperation
+org.springframework.cache.interceptor.CacheEvictOperation.Builder
+org.springframework.cache.interceptor.CacheInterceptor
+org.springframework.cache.interceptor.CacheOperation
+org.springframework.cache.interceptor.CacheOperation.Builder
+org.springframework.cache.interceptor.CacheProxyFactoryBean
+org.springframework.cache.interceptor.CachePutOperation
+org.springframework.cache.interceptor.CachePutOperation.Builder
+org.springframework.cache.interceptor.CacheableOperation
+org.springframework.cache.interceptor.CacheableOperation.Builder
+org.springframework.cache.interceptor.CompositeCacheOperationSource
+org.springframework.cache.interceptor.NameMatchCacheOperationSource
+org.springframework.cache.interceptor.NamedCacheResolver
+org.springframework.cache.interceptor.SimpleCacheErrorHandler
+org.springframework.cache.interceptor.SimpleCacheResolver
+org.springframework.cache.interceptor.SimpleKey
+org.springframework.cache.interceptor.SimpleKeyGenerator
+
+## 异常
+
+org.springframework.cache.interceptor.CacheOperationInvoker.ThrowableWrapper
+
+
+
+

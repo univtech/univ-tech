@@ -1,0 +1,30 @@
+# org.springframework.transaction.annotation
+
+## 注解
+
+org.springframework.transaction.annotation.EnableTransactionManagement
+org.springframework.transaction.annotation.Transactional
+
+## 枚举
+
+org.springframework.transaction.annotation.Isolation
+org.springframework.transaction.annotation.Propagation
+
+## 接口
+
+org.springframework.transaction.annotation.TransactionAnnotationParser
+org.springframework.transaction.annotation.TransactionManagementConfigurer
+
+## 类
+
+org.springframework.transaction.annotation.AbstractTransactionManagementConfiguration
+org.springframework.transaction.annotation.AnnotationTransactionAttributeSource
+org.springframework.transaction.annotation.Ejb3TransactionAnnotationParser
+org.springframework.transaction.annotation.JtaTransactionAnnotationParser
+org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration
+org.springframework.transaction.annotation.SpringTransactionAnnotationParser
+org.springframework.transaction.annotation.TransactionManagementConfigurationSelector
+
+
+
+

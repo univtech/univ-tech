@@ -1,0 +1,22 @@
+# org.springframework.web.accept
+
+## 接口
+
+org.springframework.web.accept.ContentNegotiationStrategy
+org.springframework.web.accept.MediaTypeFileExtensionResolver
+
+## 类
+
+org.springframework.web.accept.AbstractMappingContentNegotiationStrategy
+org.springframework.web.accept.ContentNegotiationManager
+org.springframework.web.accept.ContentNegotiationManagerFactoryBean
+org.springframework.web.accept.FixedContentNegotiationStrategy
+org.springframework.web.accept.HeaderContentNegotiationStrategy
+org.springframework.web.accept.MappingMediaTypeFileExtensionResolver
+org.springframework.web.accept.ParameterContentNegotiationStrategy
+org.springframework.web.accept.PathExtensionContentNegotiationStrategy
+org.springframework.web.accept.ServletPathExtensionContentNegotiationStrategy
+
+
+
+

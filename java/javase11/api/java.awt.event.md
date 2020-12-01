@@ -6,9 +6,9 @@ java.awt.event.FocusEvent.Cause
 
 ## 接口
 
+java.awt.event.AWTEventListener
 java.awt.event.ActionListener
 java.awt.event.AdjustmentListener
-java.awt.event.AWTEventListener
 java.awt.event.ComponentListener
 java.awt.event.ContainerListener
 java.awt.event.FocusListener
@@ -27,9 +27,9 @@ java.awt.event.WindowStateListener
 
 ## 类
 
+java.awt.event.AWTEventListenerProxy
 java.awt.event.ActionEvent
 java.awt.event.AdjustmentEvent
-java.awt.event.AWTEventListenerProxy
 java.awt.event.ComponentAdapter
 java.awt.event.ComponentEvent
 java.awt.event.ContainerAdapter

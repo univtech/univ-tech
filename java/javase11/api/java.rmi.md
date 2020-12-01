@@ -19,8 +19,8 @@ java.rmi.ConnectIOException
 java.rmi.MarshalException
 java.rmi.NoSuchObjectException
 java.rmi.NotBoundException
-java.rmi.RemoteException
 java.rmi.RMISecurityException
+java.rmi.RemoteException
 java.rmi.ServerError
 java.rmi.ServerException
 java.rmi.ServerRuntimeException

@@ -73,9 +73,9 @@ java.net.PortUnreachableException
 java.net.ProtocolException
 java.net.SocketException
 java.net.SocketTimeoutException
+java.net.URISyntaxException
 java.net.UnknownHostException
 java.net.UnknownServiceException
-java.net.URISyntaxException
 
 
 

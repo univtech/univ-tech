@@ -18,34 +18,34 @@ java.util.Formattable
 java.util.Iterator<E>
 java.util.List<E>
 java.util.ListIterator<E>
-java.util.Map<K,V>
 java.util.Map.Entry<K,V>
+java.util.Map<K,V>
 java.util.NavigableMap<K,V>
 java.util.NavigableSet<E>
 java.util.Observer
-java.util.PrimitiveIterator<T,T_CONS>
 java.util.PrimitiveIterator.OfDouble
 java.util.PrimitiveIterator.OfInt
 java.util.PrimitiveIterator.OfLong
+java.util.PrimitiveIterator<T,T_CONS>
 java.util.Queue<E>
 java.util.RandomAccess
 java.util.ServiceLoader.Provider<S>
 java.util.Set<E>
 java.util.SortedMap<K,V>
 java.util.SortedSet<E>
-java.util.Spliterator<T>
 java.util.Spliterator.OfDouble
 java.util.Spliterator.OfInt
 java.util.Spliterator.OfLong
 java.util.Spliterator.OfPrimitive<T,T_CONS,T_SPLITR extends Spliterator.OfPrimitive<T,T_CONS,T_SPLITR>>
+java.util.Spliterator<T>
 
 ## 类
 
 java.util.AbstractCollection<E>
 java.util.AbstractList<E>
-java.util.AbstractMap<K,V>
 java.util.AbstractMap.SimpleEntry<K,V>
 java.util.AbstractMap.SimpleImmutableEntry<K,V>
+java.util.AbstractMap<K,V>
 java.util.AbstractQueue<E>
 java.util.AbstractSequentialList<E>
 java.util.AbstractSet<E>
@@ -108,9 +108,9 @@ java.util.SplittableRandom
 java.util.Stack<E>
 java.util.StringJoiner
 java.util.StringTokenizer
+java.util.TimeZone
 java.util.Timer
 java.util.TimerTask
-java.util.TimeZone
 java.util.TreeMap<K,V>
 java.util.TreeSet<E>
 java.util.UUID

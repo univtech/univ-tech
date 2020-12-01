@@ -53,11 +53,12 @@ javax.print.attribute.standard.NumberUp
 javax.print.attribute.standard.NumberUpSupported
 javax.print.attribute.standard.OrientationRequested
 javax.print.attribute.standard.OutputDeviceAssigned
+javax.print.attribute.standard.PDLOverrideSupported
 javax.print.attribute.standard.PageRanges
 javax.print.attribute.standard.PagesPerMinute
 javax.print.attribute.standard.PagesPerMinuteColor
-javax.print.attribute.standard.PDLOverrideSupported
 javax.print.attribute.standard.PresentationDirection
+javax.print.attribute.standard.PrintQuality
 javax.print.attribute.standard.PrinterInfo
 javax.print.attribute.standard.PrinterIsAcceptingJobs
 javax.print.attribute.standard.PrinterLocation
@@ -71,7 +72,6 @@ javax.print.attribute.standard.PrinterState
 javax.print.attribute.standard.PrinterStateReason
 javax.print.attribute.standard.PrinterStateReasons
 javax.print.attribute.standard.PrinterURI
-javax.print.attribute.standard.PrintQuality
 javax.print.attribute.standard.QueuedJobCount
 javax.print.attribute.standard.ReferenceUriSchemesSupported
 javax.print.attribute.standard.RequestingUserName

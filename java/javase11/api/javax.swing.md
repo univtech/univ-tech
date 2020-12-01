@@ -33,8 +33,8 @@ javax.swing.MutableComboBoxModel<E>
 javax.swing.Painter<T>
 javax.swing.Renderer
 javax.swing.RootPaneContainer
-javax.swing.Scrollable
 javax.swing.ScrollPaneConstants
+javax.swing.Scrollable
 javax.swing.SingleSelectionModel
 javax.swing.SpinnerModel
 javax.swing.SwingConstants
@@ -69,8 +69,8 @@ javax.swing.DefaultListCellRenderer
 javax.swing.DefaultListCellRenderer.UIResource
 javax.swing.DefaultListModel<E>
 javax.swing.DefaultListSelectionModel
-javax.swing.DefaultRowSorter<M,I>
 javax.swing.DefaultRowSorter.ModelWrapper<M,I>
+javax.swing.DefaultRowSorter<M,I>
 javax.swing.DefaultSingleSelectionModel
 javax.swing.FocusManager
 javax.swing.GrayFilter
@@ -99,8 +99,8 @@ javax.swing.JInternalFrame.JDesktopIcon
 javax.swing.JLabel
 javax.swing.JLayer<V extends Component>
 javax.swing.JLayeredPane
-javax.swing.JList<E>
 javax.swing.JList.DropLocation
+javax.swing.JList<E>
 javax.swing.JMenu
 javax.swing.JMenuBar
 javax.swing.JMenuItem
@@ -151,10 +151,10 @@ javax.swing.PopupFactory
 javax.swing.ProgressMonitor
 javax.swing.ProgressMonitorInputStream
 javax.swing.RepaintManager
-javax.swing.RowFilter<M,I>
 javax.swing.RowFilter.Entry<M,I>
-javax.swing.RowSorter<M>
+javax.swing.RowFilter<M,I>
 javax.swing.RowSorter.SortKey
+javax.swing.RowSorter<M>
 javax.swing.ScrollPaneLayout
 javax.swing.ScrollPaneLayout.UIResource
 javax.swing.SizeRequirements

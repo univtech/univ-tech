@@ -10,8 +10,8 @@ java.lang.management.BufferPoolMXBean
 java.lang.management.ClassLoadingMXBean
 java.lang.management.CompilationMXBean
 java.lang.management.GarbageCollectorMXBean
-java.lang.management.MemoryManagerMXBean
 java.lang.management.MemoryMXBean
+java.lang.management.MemoryManagerMXBean
 java.lang.management.MemoryPoolMXBean
 java.lang.management.OperatingSystemMXBean
 java.lang.management.PlatformLoggingMXBean

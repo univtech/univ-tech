@@ -20,9 +20,9 @@ java.awt.image.AreaAveragingScaleFilter
 java.awt.image.BandCombineOp
 java.awt.image.BandedSampleModel
 java.awt.image.BaseMultiResolutionImage
+java.awt.image.BufferStrategy
 java.awt.image.BufferedImage
 java.awt.image.BufferedImageFilter
-java.awt.image.BufferStrategy
 java.awt.image.ByteLookupTable
 java.awt.image.ColorConvertOp
 java.awt.image.ColorModel
@@ -49,10 +49,10 @@ java.awt.image.MultiPixelPackedSampleModel
 java.awt.image.PackedColorModel
 java.awt.image.PixelGrabber
 java.awt.image.PixelInterleavedSampleModel
+java.awt.image.RGBImageFilter
 java.awt.image.Raster
 java.awt.image.ReplicateScaleFilter
 java.awt.image.RescaleOp
-java.awt.image.RGBImageFilter
 java.awt.image.SampleModel
 java.awt.image.ShortLookupTable
 java.awt.image.SinglePixelPackedSampleModel

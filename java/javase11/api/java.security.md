@@ -64,10 +64,10 @@ java.security.KeyStore.TrustedCertificateEntry
 java.security.KeyStoreSpi
 java.security.MessageDigest
 java.security.MessageDigestSpi
+java.security.PKCS12Attribute
 java.security.Permission
 java.security.PermissionCollection
 java.security.Permissions
-java.security.PKCS12Attribute
 java.security.Policy
 java.security.PolicySpi
 java.security.ProtectionDomain
@@ -83,8 +83,8 @@ java.security.SignatureSpi
 java.security.SignedObject
 java.security.Signer
 java.security.Timestamp
-java.security.UnresolvedPermission
 java.security.URIParameter
+java.security.UnresolvedPermission
 
 ## 异常
 

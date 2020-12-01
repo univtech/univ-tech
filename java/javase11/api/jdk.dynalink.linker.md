@@ -10,8 +10,8 @@ jdk.dynalink.linker.ConversionComparator
 jdk.dynalink.linker.GuardedInvocationTransformer
 jdk.dynalink.linker.GuardingDynamicLinker
 jdk.dynalink.linker.GuardingTypeConverterFactory
-jdk.dynalink.linker.LinkerServices
 jdk.dynalink.linker.LinkRequest
+jdk.dynalink.linker.LinkerServices
 jdk.dynalink.linker.MethodHandleTransformer
 jdk.dynalink.linker.MethodTypeConversionStrategy
 jdk.dynalink.linker.TypeBasedGuardingDynamicLinker

@@ -7,10 +7,10 @@ java.util.zip.Checksum
 ## 类
 
 java.util.zip.Adler32
-java.util.zip.CheckedInputStream
-java.util.zip.CheckedOutputStream
 java.util.zip.CRC32
 java.util.zip.CRC32C
+java.util.zip.CheckedInputStream
+java.util.zip.CheckedOutputStream
 java.util.zip.Deflater
 java.util.zip.DeflaterInputStream
 java.util.zip.DeflaterOutputStream

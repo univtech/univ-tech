@@ -20,8 +20,8 @@ javax.swing.text.MutableAttributeSet
 javax.swing.text.Position
 javax.swing.text.Style
 javax.swing.text.StyledDocument
-javax.swing.text.TabableView
 javax.swing.text.TabExpander
+javax.swing.text.TabableView
 javax.swing.text.ViewFactory
 
 ## 类
@@ -98,9 +98,9 @@ javax.swing.text.StyledEditorKit.ForegroundAction
 javax.swing.text.StyledEditorKit.ItalicAction
 javax.swing.text.StyledEditorKit.StyledTextAction
 javax.swing.text.StyledEditorKit.UnderlineAction
-javax.swing.text.TableView
 javax.swing.text.TabSet
 javax.swing.text.TabStop
+javax.swing.text.TableView
 javax.swing.text.TextAction
 javax.swing.text.Utilities
 javax.swing.text.View

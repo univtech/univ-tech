@@ -5,8 +5,8 @@
 javax.sql.rowset.CachedRowSet
 javax.sql.rowset.FilteredRowSet
 javax.sql.rowset.JdbcRowSet
-javax.sql.rowset.Joinable
 javax.sql.rowset.JoinRowSet
+javax.sql.rowset.Joinable
 javax.sql.rowset.Predicate
 javax.sql.rowset.RowSetFactory
 javax.sql.rowset.WebRowSet

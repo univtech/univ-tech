@@ -10,8 +10,8 @@ javax.imageio.ImageTranscoder
 javax.imageio.IIOImage
 javax.imageio.IIOParam
 javax.imageio.ImageIO
-javax.imageio.ImageReader
 javax.imageio.ImageReadParam
+javax.imageio.ImageReader
 javax.imageio.ImageTypeSpecifier
 javax.imageio.ImageWriteParam
 javax.imageio.ImageWriter

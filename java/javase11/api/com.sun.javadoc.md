@@ -21,9 +21,9 @@ com.sun.javadoc.FieldDoc
 com.sun.javadoc.MemberDoc
 com.sun.javadoc.MethodDoc
 com.sun.javadoc.PackageDoc
+com.sun.javadoc.ParamTag
 com.sun.javadoc.Parameter
 com.sun.javadoc.ParameterizedType
-com.sun.javadoc.ParamTag
 com.sun.javadoc.ProgramElementDoc
 com.sun.javadoc.RootDoc
 com.sun.javadoc.SeeTag

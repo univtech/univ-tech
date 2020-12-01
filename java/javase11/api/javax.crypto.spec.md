@@ -3,8 +3,8 @@
 ## 类
 
 javax.crypto.spec.ChaCha20ParameterSpec
-javax.crypto.spec.DESedeKeySpec
 javax.crypto.spec.DESKeySpec
+javax.crypto.spec.DESedeKeySpec
 javax.crypto.spec.DHGenParameterSpec
 javax.crypto.spec.DHParameterSpec
 javax.crypto.spec.DHPrivateKeySpec

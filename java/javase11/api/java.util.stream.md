@@ -14,8 +14,8 @@ java.util.stream.IntStream
 java.util.stream.IntStream.Builder
 java.util.stream.LongStream
 java.util.stream.LongStream.Builder
-java.util.stream.Stream<T>
 java.util.stream.Stream.Builder<T>
+java.util.stream.Stream<T>
 
 ## 类
 

@@ -11,17 +11,17 @@ java.nio.file.attribute.PosixFilePermission
 
 java.nio.file.attribute.AclFileAttributeView
 java.nio.file.attribute.AttributeView
-java.nio.file.attribute.BasicFileAttributes
 java.nio.file.attribute.BasicFileAttributeView
-java.nio.file.attribute.DosFileAttributes
+java.nio.file.attribute.BasicFileAttributes
 java.nio.file.attribute.DosFileAttributeView
+java.nio.file.attribute.DosFileAttributes
 java.nio.file.attribute.FileAttribute<T>
 java.nio.file.attribute.FileAttributeView
 java.nio.file.attribute.FileOwnerAttributeView
 java.nio.file.attribute.FileStoreAttributeView
 java.nio.file.attribute.GroupPrincipal
-java.nio.file.attribute.PosixFileAttributes
 java.nio.file.attribute.PosixFileAttributeView
+java.nio.file.attribute.PosixFileAttributes
 java.nio.file.attribute.UserDefinedFileAttributeView
 java.nio.file.attribute.UserPrincipal
 

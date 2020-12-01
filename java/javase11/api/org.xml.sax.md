@@ -5,8 +5,8 @@
 org.xml.sax.AttributeList
 org.xml.sax.Attributes
 org.xml.sax.ContentHandler
-org.xml.sax.DocumentHandler
 org.xml.sax.DTDHandler
+org.xml.sax.DocumentHandler
 org.xml.sax.EntityResolver
 org.xml.sax.ErrorHandler
 org.xml.sax.Locator

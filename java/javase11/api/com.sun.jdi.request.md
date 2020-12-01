@@ -12,10 +12,10 @@ com.sun.jdi.request.ExceptionRequest
 com.sun.jdi.request.MethodEntryRequest
 com.sun.jdi.request.MethodExitRequest
 com.sun.jdi.request.ModificationWatchpointRequest
-com.sun.jdi.request.MonitorContendedEnteredRequest
 com.sun.jdi.request.MonitorContendedEnterRequest
-com.sun.jdi.request.MonitorWaitedRequest
+com.sun.jdi.request.MonitorContendedEnteredRequest
 com.sun.jdi.request.MonitorWaitRequest
+com.sun.jdi.request.MonitorWaitedRequest
 com.sun.jdi.request.StepRequest
 com.sun.jdi.request.ThreadDeathRequest
 com.sun.jdi.request.ThreadStartRequest

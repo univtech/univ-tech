@@ -10,8 +10,8 @@ javax.swing.undo.UndoableEdit
 javax.swing.undo.AbstractUndoableEdit
 javax.swing.undo.CompoundEdit
 javax.swing.undo.StateEdit
-javax.swing.undo.UndoableEditSupport
 javax.swing.undo.UndoManager
+javax.swing.undo.UndoableEditSupport
 
 ## 异常
 

@@ -13,8 +13,8 @@ javax.naming.spi.StateFactory
 
 ## 类
 
-javax.naming.spi.DirectoryManager
 javax.naming.spi.DirStateFactory.Result
+javax.naming.spi.DirectoryManager
 javax.naming.spi.NamingManager
 javax.naming.spi.ResolveResult
 

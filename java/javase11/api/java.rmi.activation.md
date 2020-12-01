@@ -12,10 +12,10 @@ java.rmi.activation.Activator
 java.rmi.activation.Activatable
 java.rmi.activation.ActivationDesc
 java.rmi.activation.ActivationGroup
-java.rmi.activation.ActivationGroup_Stub
 java.rmi.activation.ActivationGroupDesc
 java.rmi.activation.ActivationGroupDesc.CommandEnvironment
 java.rmi.activation.ActivationGroupID
+java.rmi.activation.ActivationGroup_Stub
 java.rmi.activation.ActivationID
 
 ## 异常

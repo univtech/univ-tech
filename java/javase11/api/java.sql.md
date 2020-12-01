@@ -25,14 +25,14 @@ java.sql.Ref
 java.sql.ResultSet
 java.sql.ResultSetMetaData
 java.sql.RowId
-java.sql.Savepoint
-java.sql.ShardingKey
-java.sql.ShardingKeyBuilder
 java.sql.SQLData
 java.sql.SQLInput
 java.sql.SQLOutput
 java.sql.SQLType
 java.sql.SQLXML
+java.sql.Savepoint
+java.sql.ShardingKey
+java.sql.ShardingKeyBuilder
 java.sql.Statement
 java.sql.Struct
 java.sql.Wrapper

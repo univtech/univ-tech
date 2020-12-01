@@ -8,8 +8,8 @@ javax.swing.text.html.parser.DTDConstants
 
 javax.swing.text.html.parser.AttributeList
 javax.swing.text.html.parser.ContentModel
-javax.swing.text.html.parser.DocumentParser
 javax.swing.text.html.parser.DTD
+javax.swing.text.html.parser.DocumentParser
 javax.swing.text.html.parser.Element
 javax.swing.text.html.parser.Entity
 javax.swing.text.html.parser.Parser

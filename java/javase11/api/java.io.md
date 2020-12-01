@@ -81,19 +81,19 @@ java.io.Writer
 java.io.CharConversionException
 java.io.EOFException
 java.io.FileNotFoundException
+java.io.IOException
 java.io.InterruptedIOException
 java.io.InvalidClassException
 java.io.InvalidObjectException
-java.io.IOException
 java.io.NotActiveException
 java.io.NotSerializableException
 java.io.ObjectStreamException
 java.io.OptionalDataException
 java.io.StreamCorruptedException
 java.io.SyncFailedException
+java.io.UTFDataFormatException
 java.io.UncheckedIOException
 java.io.UnsupportedEncodingException
-java.io.UTFDataFormatException
 java.io.WriteAbortedException
 
 ## 错误

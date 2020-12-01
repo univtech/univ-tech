@@ -36,11 +36,11 @@ java.awt.Transparency
 
 ## 类
 
-java.awt.AlphaComposite
 java.awt.AWTEvent
 java.awt.AWTEventMulticaster
 java.awt.AWTKeyStroke
 java.awt.AWTPermission
+java.awt.AlphaComposite
 java.awt.BasicStroke
 java.awt.BorderLayout
 java.awt.BufferCapabilities
@@ -121,9 +121,9 @@ java.awt.Rectangle
 java.awt.RenderingHints
 java.awt.RenderingHints.Key
 java.awt.Robot
-java.awt.Scrollbar
 java.awt.ScrollPane
 java.awt.ScrollPaneAdjustable
+java.awt.Scrollbar
 java.awt.SplashScreen
 java.awt.SystemColor
 java.awt.SystemTray

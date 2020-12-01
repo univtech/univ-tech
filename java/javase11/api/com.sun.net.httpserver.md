@@ -18,8 +18,8 @@ com.sun.net.httpserver.Headers
 com.sun.net.httpserver.HttpContext
 com.sun.net.httpserver.HttpExchange
 com.sun.net.httpserver.HttpPrincipal
-com.sun.net.httpserver.HttpsConfigurator
 com.sun.net.httpserver.HttpServer
+com.sun.net.httpserver.HttpsConfigurator
 com.sun.net.httpserver.HttpsExchange
 com.sun.net.httpserver.HttpsParameters
 com.sun.net.httpserver.HttpsServer

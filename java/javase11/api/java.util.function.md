@@ -4,8 +4,8 @@
 
 java.util.function.BiConsumer<T,U>
 java.util.function.BiFunction<T,U,R>
-java.util.function.BinaryOperator<T>
 java.util.function.BiPredicate<T,U>
+java.util.function.BinaryOperator<T>
 java.util.function.BooleanSupplier
 java.util.function.Consumer<T>
 java.util.function.DoubleBinaryOperator

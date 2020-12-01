@@ -74,9 +74,9 @@ javax.management.InvalidAttributeValueException
 javax.management.JMException
 javax.management.JMRuntimeException
 javax.management.ListenerNotFoundException
-javax.management.MalformedObjectNameException
 javax.management.MBeanException
 javax.management.MBeanRegistrationException
+javax.management.MalformedObjectNameException
 javax.management.NotCompliantMBeanException
 javax.management.OperationsException
 javax.management.ReflectionException

@@ -20,8 +20,8 @@ javax.naming.directory.SearchResult
 javax.naming.directory.AttributeInUseException
 javax.naming.directory.AttributeModificationException
 javax.naming.directory.InvalidAttributeIdentifierException
-javax.naming.directory.InvalidAttributesException
 javax.naming.directory.InvalidAttributeValueException
+javax.naming.directory.InvalidAttributesException
 javax.naming.directory.InvalidSearchControlsException
 javax.naming.directory.InvalidSearchFilterException
 javax.naming.directory.NoSuchAttributeException

@@ -15,10 +15,10 @@ com.sun.jdi.event.LocatableEvent
 com.sun.jdi.event.MethodEntryEvent
 com.sun.jdi.event.MethodExitEvent
 com.sun.jdi.event.ModificationWatchpointEvent
-com.sun.jdi.event.MonitorContendedEnteredEvent
 com.sun.jdi.event.MonitorContendedEnterEvent
-com.sun.jdi.event.MonitorWaitedEvent
+com.sun.jdi.event.MonitorContendedEnteredEvent
 com.sun.jdi.event.MonitorWaitEvent
+com.sun.jdi.event.MonitorWaitedEvent
 com.sun.jdi.event.StepEvent
 com.sun.jdi.event.ThreadDeathEvent
 com.sun.jdi.event.ThreadStartEvent

@@ -1,0 +1,45 @@
+# org.springframework.boot.autoconfigure.condition
+
+## 注解
+
+org.springframework.boot.autoconfigure.condition.ConditionalOnBean
+org.springframework.boot.autoconfigure.condition.ConditionalOnClass
+org.springframework.boot.autoconfigure.condition.ConditionalOnCloudPlatform
+org.springframework.boot.autoconfigure.condition.ConditionalOnExpression
+org.springframework.boot.autoconfigure.condition.ConditionalOnJava
+org.springframework.boot.autoconfigure.condition.ConditionalOnJndi
+org.springframework.boot.autoconfigure.condition.ConditionalOnMissingBean
+org.springframework.boot.autoconfigure.condition.ConditionalOnMissingClass
+org.springframework.boot.autoconfigure.condition.ConditionalOnNotWebApplication
+org.springframework.boot.autoconfigure.condition.ConditionalOnProperty
+org.springframework.boot.autoconfigure.condition.ConditionalOnResource
+org.springframework.boot.autoconfigure.condition.ConditionalOnSingleCandidate
+org.springframework.boot.autoconfigure.condition.ConditionalOnWarDeployment
+org.springframework.boot.autoconfigure.condition.ConditionalOnWebApplication
+
+## 枚举
+
+org.springframework.boot.autoconfigure.condition.ConditionMessage.Style
+org.springframework.boot.autoconfigure.condition.ConditionalOnJava.Range
+org.springframework.boot.autoconfigure.condition.ConditionalOnWebApplication.Type
+org.springframework.boot.autoconfigure.condition.SearchStrategy
+
+## 类
+
+org.springframework.boot.autoconfigure.condition.AbstractNestedCondition
+org.springframework.boot.autoconfigure.condition.AbstractNestedCondition.MemberMatchOutcomes
+org.springframework.boot.autoconfigure.condition.AllNestedConditions
+org.springframework.boot.autoconfigure.condition.AnyNestedCondition
+org.springframework.boot.autoconfigure.condition.ConditionEvaluationReport
+org.springframework.boot.autoconfigure.condition.ConditionEvaluationReport.ConditionAndOutcome
+org.springframework.boot.autoconfigure.condition.ConditionEvaluationReport.ConditionAndOutcomes
+org.springframework.boot.autoconfigure.condition.ConditionMessage
+org.springframework.boot.autoconfigure.condition.ConditionOutcome
+org.springframework.boot.autoconfigure.condition.NoneNestedConditions
+org.springframework.boot.autoconfigure.condition.OnPropertyListCondition
+org.springframework.boot.autoconfigure.condition.ResourceCondition
+org.springframework.boot.autoconfigure.condition.SpringBootCondition
+
+
+
+

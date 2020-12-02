@@ -1,0 +1,20 @@
+# org.springframework.boot.autoconfigure.rsocket
+
+## 接口
+
+org.springframework.boot.autoconfigure.rsocket.RSocketMessageHandlerCustomizer
+
+## 类
+
+org.springframework.boot.autoconfigure.rsocket.RSocketMessagingAutoConfiguration
+org.springframework.boot.autoconfigure.rsocket.RSocketProperties
+org.springframework.boot.autoconfigure.rsocket.RSocketProperties.Server
+org.springframework.boot.autoconfigure.rsocket.RSocketRequesterAutoConfiguration
+org.springframework.boot.autoconfigure.rsocket.RSocketServerAutoConfiguration
+org.springframework.boot.autoconfigure.rsocket.RSocketStrategiesAutoConfiguration
+org.springframework.boot.autoconfigure.rsocket.RSocketStrategiesAutoConfiguration.JacksonCborStrategyConfiguration
+org.springframework.boot.autoconfigure.rsocket.RSocketStrategiesAutoConfiguration.JacksonJsonStrategyConfiguration
+
+
+
+

@@ -1,0 +1,15 @@
+# org.springframework.boot.actuate.autoconfigure.security.servlet
+
+## 类
+
+org.springframework.boot.actuate.autoconfigure.security.servlet.EndpointRequest
+org.springframework.boot.actuate.autoconfigure.security.servlet.EndpointRequest.EndpointRequestMatcher
+org.springframework.boot.actuate.autoconfigure.security.servlet.EndpointRequest.LinksRequestMatcher
+org.springframework.boot.actuate.autoconfigure.security.servlet.ManagementWebSecurityAutoConfiguration
+org.springframework.boot.actuate.autoconfigure.security.servlet.SecurityRequestMatchersManagementContextConfiguration
+org.springframework.boot.actuate.autoconfigure.security.servlet.SecurityRequestMatchersManagementContextConfiguration.JerseyRequestMatcherConfiguration
+org.springframework.boot.actuate.autoconfigure.security.servlet.SecurityRequestMatchersManagementContextConfiguration.MvcRequestMatcherConfiguration
+
+
+
+

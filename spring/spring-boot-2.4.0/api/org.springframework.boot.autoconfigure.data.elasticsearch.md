@@ -1,0 +1,13 @@
+# org.springframework.boot.autoconfigure.data.elasticsearch
+
+## 类
+
+org.springframework.boot.autoconfigure.data.elasticsearch.ElasticsearchDataAutoConfiguration
+org.springframework.boot.autoconfigure.data.elasticsearch.ElasticsearchRepositoriesAutoConfiguration
+org.springframework.boot.autoconfigure.data.elasticsearch.ReactiveElasticsearchRepositoriesAutoConfiguration
+org.springframework.boot.autoconfigure.data.elasticsearch.ReactiveElasticsearchRestClientAutoConfiguration
+org.springframework.boot.autoconfigure.data.elasticsearch.ReactiveElasticsearchRestClientProperties
+
+
+
+

@@ -1,0 +1,23 @@
+# org.springframework.boot.autoconfigure.jdbc
+
+## 类
+
+org.springframework.boot.autoconfigure.jdbc.DataSourceAutoConfiguration
+org.springframework.boot.autoconfigure.jdbc.DataSourceAutoConfiguration.EmbeddedDatabaseConfiguration
+org.springframework.boot.autoconfigure.jdbc.DataSourceAutoConfiguration.PooledDataSourceConfiguration
+org.springframework.boot.autoconfigure.jdbc.DataSourceProperties
+org.springframework.boot.autoconfigure.jdbc.DataSourceProperties.Xa
+org.springframework.boot.autoconfigure.jdbc.DataSourceSchemaCreatedEvent
+org.springframework.boot.autoconfigure.jdbc.DataSourceTransactionManagerAutoConfiguration
+org.springframework.boot.autoconfigure.jdbc.EmbeddedDataSourceConfiguration
+org.springframework.boot.autoconfigure.jdbc.JdbcOperationsDependsOnPostProcessor
+org.springframework.boot.autoconfigure.jdbc.JdbcProperties
+org.springframework.boot.autoconfigure.jdbc.JdbcProperties.Template
+org.springframework.boot.autoconfigure.jdbc.JdbcTemplateAutoConfiguration
+org.springframework.boot.autoconfigure.jdbc.JndiDataSourceAutoConfiguration
+org.springframework.boot.autoconfigure.jdbc.NamedParameterJdbcOperationsDependsOnPostProcessor
+org.springframework.boot.autoconfigure.jdbc.XADataSourceAutoConfiguration
+
+
+
+

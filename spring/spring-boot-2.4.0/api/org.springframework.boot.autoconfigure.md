@@ -1,0 +1,32 @@
+# org.springframework.boot.autoconfigure
+
+## 注解
+
+org.springframework.boot.autoconfigure.AutoConfigurationPackage
+org.springframework.boot.autoconfigure.AutoConfigureAfter
+org.springframework.boot.autoconfigure.AutoConfigureBefore
+org.springframework.boot.autoconfigure.AutoConfigureOrder
+org.springframework.boot.autoconfigure.EnableAutoConfiguration
+org.springframework.boot.autoconfigure.ImportAutoConfiguration
+org.springframework.boot.autoconfigure.SpringBootApplication
+
+## 接口
+
+org.springframework.boot.autoconfigure.AutoConfigurationImportFilter
+org.springframework.boot.autoconfigure.AutoConfigurationImportListener
+org.springframework.boot.autoconfigure.AutoConfigurationMetadata
+
+## 类
+
+org.springframework.boot.autoconfigure.AbstractDependsOnBeanFactoryPostProcessor
+org.springframework.boot.autoconfigure.AutoConfigurationExcludeFilter
+org.springframework.boot.autoconfigure.AutoConfigurationImportEvent
+org.springframework.boot.autoconfigure.AutoConfigurationImportSelector
+org.springframework.boot.autoconfigure.AutoConfigurationImportSelector.AutoConfigurationEntry
+org.springframework.boot.autoconfigure.AutoConfigurationPackages
+org.springframework.boot.autoconfigure.AutoConfigurations
+org.springframework.boot.autoconfigure.BackgroundPreinitializer
+
+
+
+

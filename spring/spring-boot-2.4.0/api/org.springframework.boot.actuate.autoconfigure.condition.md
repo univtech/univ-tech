@@ -1,0 +1,14 @@
+# org.springframework.boot.actuate.autoconfigure.condition
+
+## 类
+
+org.springframework.boot.actuate.autoconfigure.condition.ConditionsReportEndpoint
+org.springframework.boot.actuate.autoconfigure.condition.ConditionsReportEndpoint.ApplicationConditionEvaluation
+org.springframework.boot.actuate.autoconfigure.condition.ConditionsReportEndpoint.ContextConditionEvaluation
+org.springframework.boot.actuate.autoconfigure.condition.ConditionsReportEndpoint.MessageAndCondition
+org.springframework.boot.actuate.autoconfigure.condition.ConditionsReportEndpoint.MessageAndConditions
+org.springframework.boot.actuate.autoconfigure.condition.ConditionsReportEndpointAutoConfiguration
+
+
+
+

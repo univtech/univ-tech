@@ -1,0 +1,15 @@
+# org.springframework.boot.autoconfigure.context
+
+## 类
+
+org.springframework.boot.autoconfigure.context.ConfigurationPropertiesAutoConfiguration
+org.springframework.boot.autoconfigure.context.LifecycleAutoConfiguration
+org.springframework.boot.autoconfigure.context.LifecycleProperties
+org.springframework.boot.autoconfigure.context.MessageSourceAutoConfiguration
+org.springframework.boot.autoconfigure.context.MessageSourceAutoConfiguration.ResourceBundleCondition
+org.springframework.boot.autoconfigure.context.MessageSourceProperties
+org.springframework.boot.autoconfigure.context.PropertyPlaceholderAutoConfiguration
+
+
+
+

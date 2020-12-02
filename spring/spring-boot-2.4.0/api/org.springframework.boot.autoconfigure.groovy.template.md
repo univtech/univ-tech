@@ -1,0 +1,14 @@
+# org.springframework.boot.autoconfigure.groovy.template
+
+## 类
+
+org.springframework.boot.autoconfigure.groovy.template.GroovyTemplateAutoConfiguration
+org.springframework.boot.autoconfigure.groovy.template.GroovyTemplateAutoConfiguration.GroovyMarkupConfiguration
+org.springframework.boot.autoconfigure.groovy.template.GroovyTemplateAutoConfiguration.GroovyWebConfiguration
+org.springframework.boot.autoconfigure.groovy.template.GroovyTemplateAvailabilityProvider
+org.springframework.boot.autoconfigure.groovy.template.GroovyTemplateAvailabilityProvider.GroovyTemplateAvailabilityProperties
+org.springframework.boot.autoconfigure.groovy.template.GroovyTemplateProperties
+
+
+
+

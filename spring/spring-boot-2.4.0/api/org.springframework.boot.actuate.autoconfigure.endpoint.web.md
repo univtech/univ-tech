@@ -1,0 +1,15 @@
+# org.springframework.boot.actuate.autoconfigure.endpoint.web
+
+## 类
+
+org.springframework.boot.actuate.autoconfigure.endpoint.web.CorsEndpointProperties
+org.springframework.boot.actuate.autoconfigure.endpoint.web.ServletEndpointManagementContextConfiguration
+org.springframework.boot.actuate.autoconfigure.endpoint.web.ServletEndpointManagementContextConfiguration.JerseyServletEndpointManagementContextConfiguration
+org.springframework.boot.actuate.autoconfigure.endpoint.web.ServletEndpointManagementContextConfiguration.WebMvcServletEndpointManagementContextConfiguration
+org.springframework.boot.actuate.autoconfigure.endpoint.web.WebEndpointAutoConfiguration
+org.springframework.boot.actuate.autoconfigure.endpoint.web.WebEndpointProperties
+org.springframework.boot.actuate.autoconfigure.endpoint.web.WebEndpointProperties.Exposure
+
+
+
+

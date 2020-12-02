@@ -1,0 +1,19 @@
+# org.springframework.boot.context
+
+## 接口
+
+org.springframework.boot.context.ConfigurationWarningsApplicationContextInitializer.Check
+
+## 类
+
+org.springframework.boot.context.ApplicationPidFileWriter
+org.springframework.boot.context.ConfigurationWarningsApplicationContextInitializer
+org.springframework.boot.context.ConfigurationWarningsApplicationContextInitializer.ComponentScanPackageCheck
+org.springframework.boot.context.ConfigurationWarningsApplicationContextInitializer.ConfigurationWarningsPostProcessor
+org.springframework.boot.context.ContextIdApplicationContextInitializer
+org.springframework.boot.context.FileEncodingApplicationListener
+org.springframework.boot.context.TypeExcludeFilter
+
+
+
+

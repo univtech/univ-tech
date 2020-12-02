@@ -1,0 +1,17 @@
+# org.springframework.boot.autoconfigure.web.embedded
+
+## 类
+
+org.springframework.boot.autoconfigure.web.embedded.EmbeddedWebServerFactoryCustomizerAutoConfiguration
+org.springframework.boot.autoconfigure.web.embedded.EmbeddedWebServerFactoryCustomizerAutoConfiguration.JettyWebServerFactoryCustomizerConfiguration
+org.springframework.boot.autoconfigure.web.embedded.EmbeddedWebServerFactoryCustomizerAutoConfiguration.NettyWebServerFactoryCustomizerConfiguration
+org.springframework.boot.autoconfigure.web.embedded.EmbeddedWebServerFactoryCustomizerAutoConfiguration.TomcatWebServerFactoryCustomizerConfiguration
+org.springframework.boot.autoconfigure.web.embedded.EmbeddedWebServerFactoryCustomizerAutoConfiguration.UndertowWebServerFactoryCustomizerConfiguration
+org.springframework.boot.autoconfigure.web.embedded.JettyWebServerFactoryCustomizer
+org.springframework.boot.autoconfigure.web.embedded.NettyWebServerFactoryCustomizer
+org.springframework.boot.autoconfigure.web.embedded.TomcatWebServerFactoryCustomizer
+org.springframework.boot.autoconfigure.web.embedded.UndertowWebServerFactoryCustomizer
+
+
+
+

@@ -1,0 +1,20 @@
+# org.springframework.boot.autoconfigure.security.saml2
+
+## 类
+
+org.springframework.boot.autoconfigure.security.saml2.Saml2RelyingPartyAutoConfiguration
+org.springframework.boot.autoconfigure.security.saml2.Saml2RelyingPartyProperties
+org.springframework.boot.autoconfigure.security.saml2.Saml2RelyingPartyProperties.Decryption
+org.springframework.boot.autoconfigure.security.saml2.Saml2RelyingPartyProperties.Decryption.Credential
+org.springframework.boot.autoconfigure.security.saml2.Saml2RelyingPartyProperties.Identityprovider
+org.springframework.boot.autoconfigure.security.saml2.Saml2RelyingPartyProperties.Identityprovider.Singlesignon
+org.springframework.boot.autoconfigure.security.saml2.Saml2RelyingPartyProperties.Identityprovider.Verification
+org.springframework.boot.autoconfigure.security.saml2.Saml2RelyingPartyProperties.Identityprovider.Verification.Credential
+org.springframework.boot.autoconfigure.security.saml2.Saml2RelyingPartyProperties.Registration
+org.springframework.boot.autoconfigure.security.saml2.Saml2RelyingPartyProperties.Registration.Acs
+org.springframework.boot.autoconfigure.security.saml2.Saml2RelyingPartyProperties.Registration.Signing
+org.springframework.boot.autoconfigure.security.saml2.Saml2RelyingPartyProperties.Registration.Signing.Credential
+
+
+
+

@@ -1,0 +1,13 @@
+# org.springframework.boot.autoconfigure.websocket.servlet
+
+## 类
+
+org.springframework.boot.autoconfigure.websocket.servlet.JettyWebSocketServletWebServerCustomizer
+org.springframework.boot.autoconfigure.websocket.servlet.TomcatWebSocketServletWebServerCustomizer
+org.springframework.boot.autoconfigure.websocket.servlet.UndertowWebSocketServletWebServerCustomizer
+org.springframework.boot.autoconfigure.websocket.servlet.WebSocketMessagingAutoConfiguration
+org.springframework.boot.autoconfigure.websocket.servlet.WebSocketServletAutoConfiguration
+
+
+
+

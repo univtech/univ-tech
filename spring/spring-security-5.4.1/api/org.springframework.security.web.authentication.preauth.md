@@ -1,0 +1,19 @@
+# org.springframework.security.web.authentication.preauth
+
+## 类
+
+org.springframework.security.web.authentication.preauth.AbstractPreAuthenticatedProcessingFilter
+org.springframework.security.web.authentication.preauth.PreAuthenticatedAuthenticationProvider
+org.springframework.security.web.authentication.preauth.PreAuthenticatedAuthenticationToken
+org.springframework.security.web.authentication.preauth.PreAuthenticatedGrantedAuthoritiesUserDetailsService
+org.springframework.security.web.authentication.preauth.PreAuthenticatedGrantedAuthoritiesWebAuthenticationDetails
+org.springframework.security.web.authentication.preauth.RequestAttributeAuthenticationFilter
+org.springframework.security.web.authentication.preauth.RequestHeaderAuthenticationFilter
+
+## 异常
+
+org.springframework.security.web.authentication.preauth.PreAuthenticatedCredentialsNotFoundException
+
+
+
+

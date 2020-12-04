@@ -1,0 +1,17 @@
+# org.springframework.security.rsocket.authentication
+
+## 接口
+
+org.springframework.security.rsocket.authentication.PayloadExchangeAuthenticationConverter
+
+## 类
+
+org.springframework.security.rsocket.authentication.AnonymousPayloadInterceptor
+org.springframework.security.rsocket.authentication.AuthenticationPayloadExchangeConverter
+org.springframework.security.rsocket.authentication.AuthenticationPayloadInterceptor
+org.springframework.security.rsocket.authentication.BasicAuthenticationPayloadExchangeConverter
+org.springframework.security.rsocket.authentication.BearerPayloadExchangeConverter
+
+
+
+

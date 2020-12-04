@@ -1,0 +1,25 @@
+# org.springframework.security.web.authentication.session
+
+## 接口
+
+org.springframework.security.web.authentication.session.SessionAuthenticationStrategy
+
+## 类
+
+org.springframework.security.web.authentication.session.AbstractSessionFixationProtectionStrategy
+org.springframework.security.web.authentication.session.AbstractSessionFixationProtectionStrategy.NullEventPublisher
+org.springframework.security.web.authentication.session.ChangeSessionIdAuthenticationStrategy
+org.springframework.security.web.authentication.session.CompositeSessionAuthenticationStrategy
+org.springframework.security.web.authentication.session.ConcurrentSessionControlAuthenticationStrategy
+org.springframework.security.web.authentication.session.NullAuthenticatedSessionStrategy
+org.springframework.security.web.authentication.session.RegisterSessionAuthenticationStrategy
+org.springframework.security.web.authentication.session.SessionFixationProtectionEvent
+org.springframework.security.web.authentication.session.SessionFixationProtectionStrategy
+
+## 异常
+
+org.springframework.security.web.authentication.session.SessionAuthenticationException
+
+
+
+

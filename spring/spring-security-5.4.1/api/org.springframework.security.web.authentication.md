@@ -1,0 +1,35 @@
+# org.springframework.security.web.authentication
+
+## 接口
+
+org.springframework.security.web.authentication.AuthenticationConverter
+org.springframework.security.web.authentication.AuthenticationFailureHandler
+org.springframework.security.web.authentication.AuthenticationSuccessHandler
+org.springframework.security.web.authentication.RememberMeServices
+
+## 类
+
+org.springframework.security.web.authentication.AbstractAuthenticationProcessingFilter
+org.springframework.security.web.authentication.AbstractAuthenticationTargetUrlRequestHandler
+org.springframework.security.web.authentication.AnonymousAuthenticationFilter
+org.springframework.security.web.authentication.AuthenticationEntryPointFailureHandler
+org.springframework.security.web.authentication.AuthenticationFilter
+org.springframework.security.web.authentication.DelegatingAuthenticationEntryPoint
+org.springframework.security.web.authentication.DelegatingAuthenticationFailureHandler
+org.springframework.security.web.authentication.ExceptionMappingAuthenticationFailureHandler
+org.springframework.security.web.authentication.ForwardAuthenticationFailureHandler
+org.springframework.security.web.authentication.ForwardAuthenticationSuccessHandler
+org.springframework.security.web.authentication.Http403ForbiddenEntryPoint
+org.springframework.security.web.authentication.HttpStatusEntryPoint
+org.springframework.security.web.authentication.LoginUrlAuthenticationEntryPoint
+org.springframework.security.web.authentication.NullRememberMeServices
+org.springframework.security.web.authentication.SavedRequestAwareAuthenticationSuccessHandler
+org.springframework.security.web.authentication.SimpleUrlAuthenticationFailureHandler
+org.springframework.security.web.authentication.SimpleUrlAuthenticationSuccessHandler
+org.springframework.security.web.authentication.UsernamePasswordAuthenticationFilter
+org.springframework.security.web.authentication.WebAuthenticationDetails
+org.springframework.security.web.authentication.WebAuthenticationDetailsSource
+
+
+
+

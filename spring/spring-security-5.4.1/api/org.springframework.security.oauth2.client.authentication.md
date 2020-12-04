@@ -1,0 +1,15 @@
+# org.springframework.security.oauth2.client.authentication
+
+## 类
+
+org.springframework.security.oauth2.client.authentication.OAuth2AuthenticationToken
+org.springframework.security.oauth2.client.authentication.OAuth2AuthorizationCodeAuthenticationProvider
+org.springframework.security.oauth2.client.authentication.OAuth2AuthorizationCodeAuthenticationToken
+org.springframework.security.oauth2.client.authentication.OAuth2AuthorizationCodeReactiveAuthenticationManager
+org.springframework.security.oauth2.client.authentication.OAuth2LoginAuthenticationProvider
+org.springframework.security.oauth2.client.authentication.OAuth2LoginAuthenticationToken
+org.springframework.security.oauth2.client.authentication.OAuth2LoginReactiveAuthenticationManager
+
+
+
+

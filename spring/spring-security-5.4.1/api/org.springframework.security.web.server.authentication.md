@@ -1,0 +1,30 @@
+# org.springframework.security.web.server.authentication
+
+## 接口
+
+org.springframework.security.web.server.authentication.ServerAuthenticationConverter
+org.springframework.security.web.server.authentication.ServerAuthenticationFailureHandler
+org.springframework.security.web.server.authentication.ServerAuthenticationSuccessHandler
+
+## 类
+
+org.springframework.security.web.server.authentication.AnonymousAuthenticationWebFilter
+org.springframework.security.web.server.authentication.AuthenticationConverterServerWebExchangeMatcher
+org.springframework.security.web.server.authentication.AuthenticationWebFilter
+org.springframework.security.web.server.authentication.DelegatingServerAuthenticationSuccessHandler
+org.springframework.security.web.server.authentication.HttpBasicServerAuthenticationEntryPoint
+org.springframework.security.web.server.authentication.HttpStatusServerEntryPoint
+org.springframework.security.web.server.authentication.ReactivePreAuthenticatedAuthenticationManager
+org.springframework.security.web.server.authentication.RedirectServerAuthenticationEntryPoint
+org.springframework.security.web.server.authentication.RedirectServerAuthenticationFailureHandler
+org.springframework.security.web.server.authentication.RedirectServerAuthenticationSuccessHandler
+org.springframework.security.web.server.authentication.ServerAuthenticationEntryPointFailureHandler
+org.springframework.security.web.server.authentication.ServerFormLoginAuthenticationConverter
+org.springframework.security.web.server.authentication.ServerHttpBasicAuthenticationConverter
+org.springframework.security.web.server.authentication.ServerX509AuthenticationConverter
+org.springframework.security.web.server.authentication.SwitchUserWebFilter
+org.springframework.security.web.server.authentication.WebFilterChainServerAuthenticationSuccessHandler
+
+
+
+

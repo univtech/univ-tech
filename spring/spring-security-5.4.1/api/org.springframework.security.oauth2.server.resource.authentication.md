@@ -1,0 +1,23 @@
+# org.springframework.security.oauth2.server.resource.authentication
+
+## 类
+
+org.springframework.security.oauth2.server.resource.authentication.AbstractOAuth2TokenAuthenticationToken<T extends AbstractOAuth2Token>
+org.springframework.security.oauth2.server.resource.authentication.BearerTokenAuthentication
+org.springframework.security.oauth2.server.resource.authentication.JwtAuthenticationConverter
+org.springframework.security.oauth2.server.resource.authentication.JwtAuthenticationProvider
+org.springframework.security.oauth2.server.resource.authentication.JwtAuthenticationToken
+org.springframework.security.oauth2.server.resource.authentication.JwtBearerTokenAuthenticationConverter
+org.springframework.security.oauth2.server.resource.authentication.JwtGrantedAuthoritiesConverter
+org.springframework.security.oauth2.server.resource.authentication.JwtIssuerAuthenticationManagerResolver
+org.springframework.security.oauth2.server.resource.authentication.JwtIssuerReactiveAuthenticationManagerResolver
+org.springframework.security.oauth2.server.resource.authentication.JwtReactiveAuthenticationManager
+org.springframework.security.oauth2.server.resource.authentication.OpaqueTokenAuthenticationProvider
+org.springframework.security.oauth2.server.resource.authentication.OpaqueTokenReactiveAuthenticationManager
+org.springframework.security.oauth2.server.resource.authentication.ReactiveJwtAuthenticationConverter
+org.springframework.security.oauth2.server.resource.authentication.ReactiveJwtAuthenticationConverterAdapter
+org.springframework.security.oauth2.server.resource.authentication.ReactiveJwtGrantedAuthoritiesConverterAdapter
+
+
+
+

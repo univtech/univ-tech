@@ -1,0 +1,23 @@
+# org.springframework.security.authentication.jaas
+
+## 接口
+
+org.springframework.security.authentication.jaas.AuthorityGranter
+org.springframework.security.authentication.jaas.JaasAuthenticationCallbackHandler
+org.springframework.security.authentication.jaas.LoginExceptionResolver
+
+## 类
+
+org.springframework.security.authentication.jaas.AbstractJaasAuthenticationProvider
+org.springframework.security.authentication.jaas.DefaultJaasAuthenticationProvider
+org.springframework.security.authentication.jaas.DefaultLoginExceptionResolver
+org.springframework.security.authentication.jaas.JaasAuthenticationProvider
+org.springframework.security.authentication.jaas.JaasAuthenticationToken
+org.springframework.security.authentication.jaas.JaasGrantedAuthority
+org.springframework.security.authentication.jaas.JaasNameCallbackHandler
+org.springframework.security.authentication.jaas.JaasPasswordCallbackHandler
+org.springframework.security.authentication.jaas.SecurityContextLoginModule
+
+
+
+

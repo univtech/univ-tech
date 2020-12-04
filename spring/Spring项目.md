@@ -22,6 +22,19 @@
 + https://spring.io/projects/spring-webflow
 + https://spring.io/projects/spring-ws
 
++ https://spring.io/projects/spring-security
++ https://spring.io/projects/spring-security-kerberos
++ https://spring.io/projects/spring-security-oauth
++ https://spring.io/projects/spring-security-saml
+
++ https://spring.io/projects/spring-session
++ https://spring.io/projects/spring-session-core
++ https://spring.io/projects/spring-session-data-geode
++ https://spring.io/projects/spring-session-data-mongodb
++ https://spring.io/projects/spring-session-data-redis
++ https://spring.io/projects/spring-session-hazelcast
++ https://spring.io/projects/spring-session-jdbc
+
 + https://spring.io/projects/spring-data
 + https://spring.io/projects/spring-data-cassandra
 + https://spring.io/projects/spring-data-couchbase
@@ -77,19 +90,6 @@
 + https://spring.io/projects/spring-cloud-vault
 + https://spring.io/projects/spring-cloud-zookeeper
 + https://spring.io/projects/spring-cloud-dataflow
-
-+ https://spring.io/projects/spring-security
-+ https://spring.io/projects/spring-security-kerberos
-+ https://spring.io/projects/spring-security-oauth
-+ https://spring.io/projects/spring-security-saml
-
-+ https://spring.io/projects/spring-session
-+ https://spring.io/projects/spring-session-core
-+ https://spring.io/projects/spring-session-data-geode
-+ https://spring.io/projects/spring-session-data-mongodb
-+ https://spring.io/projects/spring-session-data-redis
-+ https://spring.io/projects/spring-session-hazelcast
-+ https://spring.io/projects/spring-session-jdbc
 
 
 

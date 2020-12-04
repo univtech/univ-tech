@@ -1,0 +1,20 @@
+# org.springframework.security.web.server.authorization
+
+## 接口
+
+org.springframework.security.web.server.authorization.ServerAccessDeniedHandler
+
+## 类
+
+org.springframework.security.web.server.authorization.AuthorizationContext
+org.springframework.security.web.server.authorization.AuthorizationWebFilter
+org.springframework.security.web.server.authorization.DelegatingReactiveAuthorizationManager
+org.springframework.security.web.server.authorization.DelegatingReactiveAuthorizationManager.Builder
+org.springframework.security.web.server.authorization.ExceptionTranslationWebFilter
+org.springframework.security.web.server.authorization.HttpStatusServerAccessDeniedHandler
+org.springframework.security.web.server.authorization.ServerWebExchangeDelegatingServerAccessDeniedHandler
+org.springframework.security.web.server.authorization.ServerWebExchangeDelegatingServerAccessDeniedHandler.DelegateEntry
+
+
+
+

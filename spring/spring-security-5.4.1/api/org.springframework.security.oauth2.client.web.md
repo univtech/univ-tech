@@ -1,0 +1,25 @@
+# org.springframework.security.oauth2.client.web
+
+## 接口
+
+org.springframework.security.oauth2.client.web.AuthorizationRequestRepository<T extends OAuth2AuthorizationRequest>
+org.springframework.security.oauth2.client.web.OAuth2AuthorizationRequestResolver
+org.springframework.security.oauth2.client.web.OAuth2AuthorizedClientRepository
+
+## 类
+
+org.springframework.security.oauth2.client.web.AuthenticatedPrincipalOAuth2AuthorizedClientRepository
+org.springframework.security.oauth2.client.web.DefaultOAuth2AuthorizationRequestResolver
+org.springframework.security.oauth2.client.web.DefaultOAuth2AuthorizedClientManager
+org.springframework.security.oauth2.client.web.DefaultOAuth2AuthorizedClientManager.DefaultContextAttributesMapper
+org.springframework.security.oauth2.client.web.DefaultReactiveOAuth2AuthorizedClientManager
+org.springframework.security.oauth2.client.web.DefaultReactiveOAuth2AuthorizedClientManager.DefaultContextAttributesMapper
+org.springframework.security.oauth2.client.web.HttpSessionOAuth2AuthorizationRequestRepository
+org.springframework.security.oauth2.client.web.HttpSessionOAuth2AuthorizedClientRepository
+org.springframework.security.oauth2.client.web.OAuth2AuthorizationCodeGrantFilter
+org.springframework.security.oauth2.client.web.OAuth2AuthorizationRequestRedirectFilter
+org.springframework.security.oauth2.client.web.OAuth2LoginAuthenticationFilter
+
+
+
+

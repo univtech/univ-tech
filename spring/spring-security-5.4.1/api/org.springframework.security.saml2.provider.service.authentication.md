@@ -1,0 +1,36 @@
+# org.springframework.security.saml2.provider.service.authentication
+
+## 接口
+
+org.springframework.security.saml2.provider.service.authentication.Saml2AuthenticatedPrincipal
+org.springframework.security.saml2.provider.service.authentication.Saml2AuthenticationRequestFactory
+org.springframework.security.saml2.provider.service.authentication.Saml2ErrorCodes
+
+## 类
+
+org.springframework.security.saml2.provider.service.authentication.AbstractSaml2AuthenticationRequest
+org.springframework.security.saml2.provider.service.authentication.AbstractSaml2AuthenticationRequest.Builder<T extends AbstractSaml2AuthenticationRequest.Builder<T>>
+org.springframework.security.saml2.provider.service.authentication.DefaultSaml2AuthenticatedPrincipal
+org.springframework.security.saml2.provider.service.authentication.OpenSamlAuthenticationProvider
+org.springframework.security.saml2.provider.service.authentication.OpenSamlAuthenticationProvider.AssertionToken
+org.springframework.security.saml2.provider.service.authentication.OpenSamlAuthenticationProvider.ResponseToken
+org.springframework.security.saml2.provider.service.authentication.OpenSamlAuthenticationRequestFactory
+org.springframework.security.saml2.provider.service.authentication.Saml2Authentication
+org.springframework.security.saml2.provider.service.authentication.Saml2AuthenticationRequest
+org.springframework.security.saml2.provider.service.authentication.Saml2AuthenticationRequest.Builder
+org.springframework.security.saml2.provider.service.authentication.Saml2AuthenticationRequestContext
+org.springframework.security.saml2.provider.service.authentication.Saml2AuthenticationRequestContext.Builder
+org.springframework.security.saml2.provider.service.authentication.Saml2AuthenticationToken
+org.springframework.security.saml2.provider.service.authentication.Saml2Error
+org.springframework.security.saml2.provider.service.authentication.Saml2PostAuthenticationRequest
+org.springframework.security.saml2.provider.service.authentication.Saml2PostAuthenticationRequest.Builder
+org.springframework.security.saml2.provider.service.authentication.Saml2RedirectAuthenticationRequest
+org.springframework.security.saml2.provider.service.authentication.Saml2RedirectAuthenticationRequest.Builder
+
+## 异常
+
+org.springframework.security.saml2.provider.service.authentication.Saml2AuthenticationException
+
+
+
+

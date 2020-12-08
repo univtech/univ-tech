@@ -8,6 +8,7 @@
 + https://docs.spring.io/spring-framework/docs/5.3.1/
 + https://docs.spring.io/spring-framework/docs/5.3.1/javadoc-api/
 + https://docs.spring.io/spring-framework/docs/5.3.1/reference/
++ https://docs.spring.io/spring-framework/docs/5.3.1/kdoc-api/
 
 + https://docs.spring.io/spring-framework/docs/5.3.1/reference/html/
 + https://docs.spring.io/spring-framework/docs/5.3.1/reference/html/index.html
@@ -33,9 +34,7 @@
 + https://docs.spring.io/spring-framework/docs/5.3.1/reference/pdf/languages.pdf
 + https://docs.spring.io/spring-framework/docs/5.3.1/reference/pdf/rsocket.pdf
 
-+ https://docs.spring.io/spring-framework/docs/5.3.1/kdoc-api/
 + https://docs.spring.io/spring-framework/docs/5.3.1/kdoc-api/spring-framework/
-
 
 
 

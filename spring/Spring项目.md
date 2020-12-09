@@ -2,20 +2,20 @@
 
 + https://spring.io/projects
 
-+ https://projects.spring.io/spring-amqp
-+ https://projects.spring.io/spring-roo
-+ https://spring.io/projects/spring-android
-+ https://spring.io/projects/spring-batch
++ https://spring.io/projects/spring-framework
 + https://spring.io/projects/spring-boot
++ https://spring.io/projects/spring-integration
++ https://spring.io/projects/spring-hateoas
++ https://spring.io/projects/spring-restdocs
++ https://spring.io/projects/spring-batch
++ https://spring.io/projects/spring-amqp
++ https://spring.io/projects/spring-android
 + https://spring.io/projects/spring-credhub
 + https://spring.io/projects/spring-flo
-+ https://spring.io/projects/spring-framework
-+ https://spring.io/projects/spring-hateoas
-+ https://spring.io/projects/spring-integration
 + https://spring.io/projects/spring-kafka
 + https://spring.io/projects/spring-ldap
 + https://spring.io/projects/spring-mobile
-+ https://spring.io/projects/spring-restdocs
++ https://projects.spring.io/spring-roo
 + https://spring.io/projects/spring-shell
 + https://spring.io/projects/spring-statemachine
 + https://spring.io/projects/spring-vault
@@ -54,8 +54,8 @@
 + https://spring.io/projects/spring-data-solr
 + https://spring.io/projects/spring-hadoop
 
-+ https://cloud.spring.io/spring-cloud-skipper
-+ https://cloud.spring.io/spring-cloud-stream
++ https://spring.io/projects/spring-cloud-skipper
++ https://spring.io/projects/spring-cloud-stream
 + https://spring.io/projects/spring-cloud
 + https://spring.io/projects/spring-cloud-alibaba
 + https://spring.io/projects/spring-cloud-app-broker
@@ -91,6 +91,13 @@
 + https://spring.io/projects/spring-cloud-zookeeper
 + https://spring.io/projects/spring-cloud-dataflow
 
++ https://spring.io/projects/platform
++ https://spring.io/projects/spring-social
++ https://projects.spring.io/spring-xd/
++ https://github.com/spring-projects/spring-flex
++ https://github.com/spring-projects/spring-integration-dsl-groovy
++ https://github.com/spring-projects/spring-integration-dsl-scala
++ https://hub.darcs.net/psnively/spring-scala
 
 
 
